@@ -397,8 +397,8 @@ MediCare-Hospital-Analytics/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/koffifidelek59-collab/piggy-cast.git
-cd MediCare-Hospital-Analytics
+git clone https://github.com/koffifidelek59-collab/medicare-hospital-analytics.git
+cd medicare-hospital-analytics
 ```
 
 ## 2. Install dependencies
