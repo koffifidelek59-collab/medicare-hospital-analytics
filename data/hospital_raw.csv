@@ -1,0 +1,248 @@
+EpisodeID,PatientName,Age,AgeBand,AgeBandOrder,Gender,Diagnosis,Severity,SeverityRank,Doctor,AdmitDate,DischargeDate,LengthOfStay,AdmitMonth,AdmitMonthName,AdmitQuarter,AdmitWeekday,Bill,BillValid,Insurance,IsInsured,DateError,BillIsPlaceholder
+EP-0001,Mariam Khaled,22,19-30,2,Male,Fracture,Low,1,Dr. Yasmin Mahmoud,2023-01-01,2023-01-05,4,1,Jan,1,Sunday,5339,5339,Government insurance,True,False,False
+EP-0002,Mariam Youssef,57,46-60,4,Female,Chronic allergy,Low,1,Dr. Yasmin Mahmoud,2023-01-03,2022-12-31,,1,Jan,1,Tuesday,999,,Private insurance,True,True,True
+EP-0003,Ibrahim Hassan,56,46-60,4,Male,Migraine,Low,1,Dr. Yasmin Mahmoud,2023-01-05,2023-01-11,6,1,Jan,1,Thursday,3852,,Uninsured,False,False,True
+EP-0004,Mariam Youssef,84,76+,6,Female,Diabetes,Low,1,Dr. Yasmin Mahmoud,2023-01-05,2023-01-10,5,1,Jan,1,Thursday,3920,3920,Government insurance,True,False,False
+EP-0005,Yasmin Hassan,26,19-30,2,Male,Kidney failure,High,3,Dr. Ahmed Ali,2023-01-05,2023-01-07,2,1,Jan,1,Thursday,999,,Government insurance,True,False,True
+EP-0006,Ahmed Hassan,13,0-18,1,Male,Chronic allergy,Low,1,Dr. Mohamed Hassan,2023-01-06,2023-01-10,4,1,Jan,1,Friday,999,,Private insurance,True,False,True
+EP-0007,Mahmoud Abdallah,79,76+,6,Female,Chronic allergy,High,3,Dr. Ahmed Ali,2023-01-06,2023-01-10,4,1,Jan,1,Friday,999,,Government insurance,True,False,True
+EP-0008,Ahmed El-Sayed,56,46-60,4,Female,Hypertension,Medium,2,Dr. Ahmed Ali,2023-01-08,2023-01-28,20,1,Jan,1,Sunday,999,,Private insurance,True,False,True
+EP-0009,Ibrahim Mahmoud,60,46-60,4,Female,Influenza,Medium,2,Dr. Yasmin Mahmoud,2023-01-08,2023-01-11,3,1,Jan,1,Sunday,999,,Uninsured,False,False,True
+EP-0010,Sara Abdallah,38,31-45,3,Male,Influenza,Low,1,Dr. Sara Ibrahim,2023-01-10,2023-01-13,3,1,Jan,1,Tuesday,999,,Government insurance,True,False,True
+EP-0011,Sara Abdallah,89,76+,6,Male,Stroke,High,3,Dr. Reem Abdallah,2023-01-10,2023-01-23,13,1,Jan,1,Tuesday,3852,,Government insurance,True,False,True
+EP-0012,Sara Youssef,59,46-60,4,Female,Kidney failure,Medium,2,Dr. Yasmin Mahmoud,2023-01-14,2023-01-21,7,1,Jan,1,Saturday,999,,Private insurance,True,False,True
+EP-0013,Mahmoud El-Sayed,81,76+,6,Female,Common cold,High,3,Dr. Mohamed Hassan,2023-01-15,2023-01-18,3,1,Jan,1,Sunday,2873,2873,Uninsured,False,False,False
+EP-0014,Mariam Hassan,70,61-75,5,Male,Hypertension,Low,1,Dr. Sara Ibrahim,2023-01-15,2023-01-17,2,1,Jan,1,Sunday,999,,Private insurance,True,False,True
+EP-0015,Nada Ibrahim,41,31-45,3,Female,Hypertension,Low,1,Dr. Nour Khaled,2023-01-16,2023-01-22,6,1,Jan,1,Monday,3293,3293,Private insurance,True,False,False
+EP-0016,Mahmoud Abdallah,65,61-75,5,Male,Hypertension,Low,1,Dr. Mohamed Hassan,2023-01-17,2023-01-19,2,1,Jan,1,Tuesday,999,,Uninsured,False,False,True
+EP-0017,Mahmoud Mahmoud,70,61-75,5,Female,Diabetes,Medium,2,Dr. Reem Abdallah,2023-01-18,2023-01-17,,1,Jan,1,Wednesday,999,,Private insurance,True,True,True
+EP-0018,Ibrahim Youssef,5,0-18,1,Female,Hypertension,Low,1,Dr. Yasmin Mahmoud,2023-01-19,2023-02-01,13,1,Jan,1,Thursday,3852,,Government insurance,True,False,True
+EP-0019,Mahmoud Khaled,11,0-18,1,Male,Influenza,High,3,Dr. Mohamed Hassan,2023-01-22,2023-02-04,13,1,Jan,1,Sunday,3852,,Uninsured,False,False,True
+EP-0020,Ahmed Youssef,48,46-60,4,Male,Hypertension,Low,1,Dr. Reem Abdallah,2023-01-23,2023-01-18,,1,Jan,1,Monday,999,,Uninsured,False,True,True
+EP-0021,Mariam Ali,56,46-60,4,Female,Diabetes,Medium,2,Dr. Ahmed Ali,2023-01-23,2023-01-28,5,1,Jan,1,Monday,999,,Private insurance,True,False,True
+EP-0022,Ali Ibrahim,49,46-60,4,Female,Kidney failure,Low,1,Dr. Sara Ibrahim,2023-01-26,2023-02-07,12,1,Jan,1,Thursday,999,,Uninsured,False,False,True
+EP-0023,Nada Hassan,5,0-18,1,Male,Kidney failure,Low,1,Dr. Khaled Sami,2023-01-26,2023-01-31,5,1,Jan,1,Thursday,3852,,Government insurance,True,False,True
+EP-0024,Yasmin Ali,12,0-18,1,Male,Influenza,Medium,2,Dr. Nour Khaled,2023-01-27,2023-02-12,16,1,Jan,1,Friday,3852,,Private insurance,True,False,True
+EP-0025,Youssef El-Sayed,76,76+,6,Female,Common cold,Low,1,Dr. Ahmed Ali,2023-02-01,2023-01-28,,2,Feb,1,Wednesday,999,,Uninsured,False,True,True
+EP-0026,Sara Youssef,15,0-18,1,Female,Influenza,Medium,2,Dr. Yasmin Mahmoud,2023-02-02,2023-02-06,4,2,Feb,1,Thursday,999,,Private insurance,True,False,True
+EP-0027,Yasmin Abdallah,88,76+,6,Male,Fracture,Low,1,Dr. Mohamed Hassan,2023-02-02,2023-02-07,5,2,Feb,1,Thursday,3857,3857,Government insurance,True,False,False
+EP-0028,Youssef Ali,28,19-30,2,Female,Common cold,Low,1,Dr. Ahmed Ali,2023-02-02,2023-02-03,1,2,Feb,1,Thursday,2600,2600,Private insurance,True,False,False
+EP-0029,Youssef Mahmoud,17,0-18,1,Female,Influenza,Medium,2,Dr. Reem Abdallah,2023-02-05,2023-02-14,9,2,Feb,1,Sunday,3852,,Government insurance,True,False,True
+EP-0030,Ibrahim Hassan,82,76+,6,Female,Diabetes,High,3,Dr. Reem Abdallah,2023-02-06,2023-02-08,2,2,Feb,1,Monday,999,,Government insurance,True,False,True
+EP-0031,Yasmin Ibrahim,16,0-18,1,Female,Diabetes,High,3,Dr. Reem Abdallah,2023-02-06,2023-02-09,3,2,Feb,1,Monday,3852,,Government insurance,True,False,True
+EP-0032,Mariam Youssef,86,76+,6,Male,Stroke,Low,1,Dr. Khaled Sami,2023-02-09,2023-02-18,9,2,Feb,1,Thursday,999,,Private insurance,True,False,True
+EP-0033,Mohamed El-Sayed,17,0-18,1,Male,Fracture,Low,1,Dr. Ahmed Ali,2023-02-11,2023-02-27,16,2,Feb,1,Saturday,3852,,Government insurance,True,False,True
+EP-0034,Ali Ibrahim,76,76+,6,Female,Fracture,Medium,2,Dr. Reem Abdallah,2023-02-15,2023-02-27,12,2,Feb,1,Wednesday,6763,6763,Government insurance,True,False,False
+EP-0035,Yasmin Hassan,87,76+,6,Male,Common cold,Low,1,Dr. Khaled Sami,2023-02-15,2023-03-05,18,2,Feb,1,Wednesday,999,,Government insurance,True,False,True
+EP-0036,Mariam El-Sayed,24,19-30,2,Male,Fracture,High,3,Dr. Mohamed Hassan,2023-02-17,2023-02-19,2,2,Feb,1,Friday,1570,1570,Private insurance,True,False,False
+EP-0037,Ibrahim Abdallah,42,31-45,3,Male,Fracture,Medium,2,Dr. Nour Khaled,2023-02-19,2023-02-20,1,2,Feb,1,Sunday,592,592,Government insurance,True,False,False
+EP-0038,Mahmoud Ali,58,46-60,4,Female,Chronic allergy,High,3,Dr. Mohamed Hassan,2023-02-19,2023-03-11,20,2,Feb,1,Sunday,3852,,Private insurance,True,False,True
+EP-0039,Ali Mahmoud,69,61-75,5,Male,Chronic allergy,Medium,2,Dr. Khaled Sami,2023-02-22,2023-02-25,3,2,Feb,1,Wednesday,2390,2390,Private insurance,True,False,False
+EP-0040,Youssef Abdallah,44,31-45,3,Female,Fracture,High,3,Dr. Nour Khaled,2023-02-23,2023-02-21,,2,Feb,1,Thursday,999,,Private insurance,True,True,True
+EP-0041,Ahmed Abdallah,73,61-75,5,Female,Stroke,Low,1,Dr. Yasmin Mahmoud,2023-02-25,2023-03-18,21,2,Feb,1,Saturday,999,,Private insurance,True,False,True
+EP-0042,Youssef Abdallah,33,31-45,3,Male,Fracture,High,3,Dr. Reem Abdallah,2023-02-28,2023-03-04,4,2,Feb,1,Tuesday,999,,Government insurance,True,False,True
+EP-0043,Mahmoud Hassan,7,0-18,1,Female,Common cold,High,3,Dr. Sara Ibrahim,2023-03-02,2023-03-05,3,3,Mar,1,Thursday,4772,4772,Private insurance,True,False,False
+EP-0044,Yasmin Mahmoud,33,31-45,3,Male,Kidney failure,Medium,2,Dr. Reem Abdallah,2023-03-05,2023-03-08,3,3,Mar,1,Sunday,3852,,Private insurance,True,False,True
+EP-0045,Youssef Hassan,55,46-60,4,Male,Chronic allergy,Low,1,Dr. Ahmed Ali,2023-03-06,2023-03-12,6,3,Mar,1,Monday,1208,1208,Uninsured,False,False,False
+EP-0046,Yasmin Ibrahim,21,19-30,2,Male,Hypertension,Medium,2,Dr. Reem Abdallah,2023-03-09,2023-03-13,4,3,Mar,1,Thursday,3852,,Uninsured,False,False,True
+EP-0047,Ali Abdallah,18,0-18,1,Female,Pneumonia,High,3,Dr. Khaled Sami,2023-03-10,2023-03-14,4,3,Mar,1,Friday,3852,,Government insurance,True,False,True
+EP-0048,Ali Abdallah,18,0-18,1,Female,Diabetes,High,3,Dr. Khaled Sami,2023-03-10,2023-03-14,4,3,Mar,1,Friday,3852,,Government insurance,True,False,True
+EP-0049,Yasmin Hassan,65,61-75,5,Female,Fracture,High,3,Dr. Mohamed Hassan,2023-03-12,2023-03-14,2,3,Mar,1,Sunday,999,,Private insurance,True,False,True
+EP-0050,Yasmin Mahmoud,5,0-18,1,Female,Influenza,High,3,Dr. Khaled Sami,2023-03-12,2023-03-07,,3,Mar,1,Sunday,999,,Government insurance,True,True,True
+EP-0051,Ibrahim Khaled,16,0-18,1,Female,Influenza,Low,1,Dr. Ahmed Ali,2023-03-15,2023-03-23,8,3,Mar,1,Wednesday,6551,6551,Government insurance,True,False,False
+EP-0052,Ali Ali,13,0-18,1,Female,Common cold,Low,1,Dr. Reem Abdallah,2023-03-16,2023-03-19,3,3,Mar,1,Thursday,999,,Private insurance,True,False,True
+EP-0053,Mariam Youssef,49,46-60,4,Female,Hypertension,Low,1,Dr. Reem Abdallah,2023-03-20,2023-03-23,3,3,Mar,1,Monday,999,,Private insurance,True,False,True
+EP-0054,Mohamed Youssef,40,31-45,3,Female,Chronic allergy,High,3,Dr. Reem Abdallah,2023-03-22,2023-03-20,,3,Mar,1,Wednesday,999,,Uninsured,False,True,True
+EP-0055,Mohamed Youssef,30,19-30,2,Female,Diabetes,High,3,Dr. Khaled Sami,2023-03-22,2023-03-29,7,3,Mar,1,Wednesday,3852,,Private insurance,True,False,True
+EP-0056,Nada Hassan,27,19-30,2,Female,Diabetes,Medium,2,Dr. Yasmin Mahmoud,2023-03-22,2023-03-24,2,3,Mar,1,Wednesday,3852,,Government insurance,True,False,True
+EP-0057,Mariam Hassan,6,0-18,1,Male,Hypertension,Low,1,Dr. Khaled Sami,2023-03-25,2023-03-22,,3,Mar,1,Saturday,3852,,Government insurance,True,True,True
+EP-0058,Ibrahim Khaled,58,46-60,4,Male,Influenza,Medium,2,Dr. Yasmin Mahmoud,2023-03-26,2023-04-02,7,3,Mar,1,Sunday,999,,Uninsured,False,False,True
+EP-0059,Mariam Hassan,78,76+,6,Male,Hypertension,High,3,Dr. Yasmin Mahmoud,2023-03-26,2023-04-25,30,3,Mar,1,Sunday,999,,Private insurance,True,False,True
+EP-0060,Mohamed Khaled,81,76+,6,Male,Common cold,Low,1,Dr. Mohamed Hassan,2023-03-26,2023-04-09,14,3,Mar,1,Sunday,999,,Uninsured,False,False,True
+EP-0061,Yasmin Youssef,31,31-45,3,Female,Fracture,Low,1,Dr. Ahmed Ali,2023-03-28,2023-03-30,2,3,Mar,1,Tuesday,999,,Uninsured,False,False,True
+EP-0062,Yasmin El-Sayed,31,31-45,3,Female,Influenza,Medium,2,Dr. Ahmed Ali,2023-04-02,2023-04-13,11,4,Apr,2,Sunday,3852,,Government insurance,True,False,True
+EP-0063,Ali Hassan,56,46-60,4,Male,Chronic allergy,High,3,Dr. Ahmed Ali,2023-04-03,2023-04-17,14,4,Apr,2,Monday,999,,Government insurance,True,False,True
+EP-0064,Ahmed El-Sayed,89,76+,6,Male,Kidney failure,High,3,Dr. Yasmin Mahmoud,2023-04-05,2023-04-17,12,4,Apr,2,Wednesday,999,,Uninsured,False,False,True
+EP-0065,Ibrahim Youssef,41,31-45,3,Female,Common cold,Low,1,Dr. Khaled Sami,2023-04-05,2023-04-23,18,4,Apr,2,Wednesday,3852,,Private insurance,True,False,True
+EP-0066,Youssef Ibrahim,50,46-60,4,Male,Fracture,High,3,Dr. Yasmin Mahmoud,2023-04-06,2023-04-02,,4,Apr,2,Thursday,999,,Private insurance,True,True,True
+EP-0067,Mahmoud Hassan,89,76+,6,Male,Kidney failure,Medium,2,Dr. Ahmed Ali,2023-04-08,2023-04-11,3,4,Apr,2,Saturday,4562,4562,Private insurance,True,False,False
+EP-0068,Mariam Ali,59,46-60,4,Male,Pneumonia,High,3,Dr. Mohamed Hassan,2023-04-09,2023-04-12,3,4,Apr,2,Sunday,1086,1086,Private insurance,True,False,False
+EP-0069,Nada Hassan,49,46-60,4,Female,Common cold,High,3,Dr. Sara Ibrahim,2023-04-11,2023-04-14,3,4,Apr,2,Tuesday,3682,3682,Uninsured,False,False,False
+EP-0070,Ahmed Ibrahim,46,46-60,4,Male,Common cold,Medium,2,Dr. Khaled Sami,2023-04-12,2023-04-27,15,4,Apr,2,Wednesday,3852,,Private insurance,True,False,True
+EP-0071,Ali Ali,43,31-45,3,Female,Chronic allergy,High,3,Dr. Ahmed Ali,2023-04-12,2023-04-14,2,4,Apr,2,Wednesday,2213,2213,Government insurance,True,False,False
+EP-0072,Mohamed El-Sayed,59,46-60,4,Male,Diabetes,High,3,Dr. Mohamed Hassan,2023-04-13,2023-04-15,2,4,Apr,2,Thursday,3852,,Uninsured,False,False,True
+EP-0073,Mariam Ali,5,0-18,1,Male,Diabetes,Medium,2,Dr. Reem Abdallah,2023-04-14,2023-04-17,3,4,Apr,2,Friday,999,,Government insurance,True,False,True
+EP-0074,Ibrahim Mahmoud,11,0-18,1,Male,Kidney failure,Low,1,Dr. Khaled Sami,2023-04-18,2023-04-22,4,4,Apr,2,Tuesday,3852,,Government insurance,True,False,True
+EP-0075,Mahmoud Hassan,32,31-45,3,Male,Fracture,High,3,Dr. Nour Khaled,2023-04-22,2023-04-25,3,4,Apr,2,Saturday,3852,,Government insurance,True,False,True
+EP-0076,Sara Mahmoud,29,19-30,2,Male,Fracture,Medium,2,Dr. Mohamed Hassan,2023-04-25,2023-05-13,18,4,Apr,2,Tuesday,3852,,Uninsured,False,False,True
+EP-0077,Ibrahim Abdallah,31,31-45,3,Female,Common cold,Medium,2,Dr. Nour Khaled,2023-04-26,2023-04-28,2,4,Apr,2,Wednesday,999,,Private insurance,True,False,True
+EP-0078,Sara Youssef,55,46-60,4,Female,Fracture,Medium,2,Dr. Ahmed Ali,2023-04-27,2023-05-02,5,4,Apr,2,Thursday,2214,2214,Government insurance,True,False,False
+EP-0079,Mohamed Mahmoud,41,31-45,3,Female,Migraine,Low,1,Dr. Yasmin Mahmoud,2023-05-02,2023-05-11,9,5,May,2,Tuesday,3852,,Government insurance,True,False,True
+EP-0080,Ibrahim Mahmoud,88,76+,6,Male,Migraine,Low,1,Dr. Sara Ibrahim,2023-05-03,2023-05-08,5,5,May,2,Wednesday,3852,,Government insurance,True,False,True
+EP-0081,Youssef Hassan,31,31-45,3,Male,Migraine,High,3,Dr. Khaled Sami,2023-05-03,2023-05-04,1,5,May,2,Wednesday,1484,1484,Uninsured,False,False,False
+EP-0082,Sara Khaled,14,0-18,1,Female,Influenza,Medium,2,Dr. Reem Abdallah,2023-05-04,2023-05-08,4,5,May,2,Thursday,2973,2973,Private insurance,True,False,False
+EP-0083,Ibrahim Youssef,42,31-45,3,Male,Influenza,High,3,Dr. Mohamed Hassan,2023-05-05,2023-05-08,3,5,May,2,Friday,999,,Government insurance,True,False,True
+EP-0084,Mahmoud El-Sayed,50,46-60,4,Female,Common cold,High,3,Dr. Reem Abdallah,2023-05-05,2023-05-19,14,5,May,2,Friday,3852,,Private insurance,True,False,True
+EP-0085,Yasmin El-Sayed,87,76+,6,Male,Influenza,Medium,2,Dr. Nour Khaled,2023-05-05,2023-05-17,12,5,May,2,Friday,3852,,Uninsured,False,False,True
+EP-0086,Nada Mahmoud,47,46-60,4,Male,Diabetes,High,3,Dr. Reem Abdallah,2023-05-07,2023-05-24,17,5,May,2,Sunday,999,,Uninsured,False,False,True
+EP-0087,Youssef El-Sayed,82,76+,6,Female,Influenza,Low,1,Dr. Yasmin Mahmoud,2023-05-09,2023-05-23,14,5,May,2,Tuesday,3852,,Private insurance,True,False,True
+EP-0088,Ahmed Ali,32,31-45,3,Male,Fracture,Medium,2,Dr. Yasmin Mahmoud,2023-05-10,2023-05-14,4,5,May,2,Wednesday,3852,,Uninsured,False,False,True
+EP-0089,Youssef Abdallah,68,61-75,5,Female,Chronic allergy,Medium,2,Dr. Mohamed Hassan,2023-05-10,2023-05-13,3,5,May,2,Wednesday,999,,Government insurance,True,False,True
+EP-0090,Ibrahim Ali,46,46-60,4,Female,Kidney failure,Medium,2,Dr. Mohamed Hassan,2023-05-11,2023-05-22,11,5,May,2,Thursday,3852,,Private insurance,True,False,True
+EP-0091,Sara Hassan,27,19-30,2,Male,Fracture,Low,1,Dr. Reem Abdallah,2023-05-11,2023-05-17,6,5,May,2,Thursday,999,,Government insurance,True,False,True
+EP-0092,Ahmed Ibrahim,25,19-30,2,Male,Common cold,High,3,Dr. Yasmin Mahmoud,2023-05-12,2023-05-30,18,5,May,2,Friday,999,,Private insurance,True,False,True
+EP-0093,Ahmed Mahmoud,86,76+,6,Female,Common cold,Low,1,Dr. Mohamed Hassan,2023-05-13,2023-06-06,24,5,May,2,Saturday,3852,,Uninsured,False,False,True
+EP-0094,Sara Ibrahim,52,46-60,4,Female,Diabetes,High,3,Dr. Reem Abdallah,2023-05-13,2023-05-16,3,5,May,2,Saturday,3852,,Uninsured,False,False,True
+EP-0095,Mariam Ali,66,61-75,5,Male,Chronic allergy,High,3,Dr. Khaled Sami,2023-05-14,2023-05-17,3,5,May,2,Sunday,3852,,Uninsured,False,False,True
+EP-0096,Sara Hassan,77,76+,6,Female,Chronic allergy,High,3,Dr. Khaled Sami,2023-05-14,2023-05-19,5,5,May,2,Sunday,999,,Private insurance,True,False,True
+EP-0097,Nada Ibrahim,29,19-30,2,Male,Chronic allergy,High,3,Dr. Mohamed Hassan,2023-05-16,2023-06-06,21,5,May,2,Tuesday,3852,,Government insurance,True,False,True
+EP-0098,Yasmin Abdallah,8,0-18,1,Female,Diabetes,Medium,2,Dr. Ahmed Ali,2023-05-16,2023-05-18,2,5,May,2,Tuesday,3852,,Private insurance,True,False,True
+EP-0099,Ibrahim Abdallah,85,76+,6,Female,Fracture,Medium,2,Dr. Ahmed Ali,2023-05-17,2023-05-22,5,5,May,2,Wednesday,5127,5127,Uninsured,False,False,False
+EP-0100,Nada Ali,23,19-30,2,Male,Hypertension,Low,1,Dr. Yasmin Mahmoud,2023-05-17,2023-05-15,,5,May,2,Wednesday,999,,Private insurance,True,True,True
+EP-0101,Mariam Youssef,7,0-18,1,Male,Influenza,Low,1,Dr. Ahmed Ali,2023-05-23,2023-05-26,3,5,May,2,Tuesday,973,973,Private insurance,True,False,False
+EP-0102,Sara Abdallah,20,19-30,2,Female,Common cold,Low,1,Dr. Sara Ibrahim,2023-05-23,2023-05-28,5,5,May,2,Tuesday,3852,,Government insurance,True,False,True
+EP-0103,Ahmed El-Sayed,36,31-45,3,Male,Common cold,High,3,Dr. Khaled Sami,2023-05-25,2023-05-28,3,5,May,2,Thursday,999,,Government insurance,True,False,True
+EP-0104,Ahmed Mahmoud,41,31-45,3,Female,Common cold,Low,1,Dr. Nour Khaled,2023-05-25,2023-05-28,3,5,May,2,Thursday,1416,1416,Government insurance,True,False,False
+EP-0105,Sara Mahmoud,90,76+,6,Female,Influenza,High,3,Dr. Khaled Sami,2023-05-25,2023-05-30,5,5,May,2,Thursday,3852,,Government insurance,True,False,True
+EP-0106,Ibrahim Mahmoud,81,76+,6,Male,Hypertension,Medium,2,Dr. Khaled Sami,2023-05-27,2023-05-31,4,5,May,2,Saturday,5422,5422,Private insurance,True,False,False
+EP-0107,Nada Ali,88,76+,6,Female,Influenza,High,3,Dr. Reem Abdallah,2023-05-27,2023-06-14,18,5,May,2,Saturday,999,,Government insurance,True,False,True
+EP-0108,Nada Youssef,5,0-18,1,Female,Migraine,Low,1,Dr. Khaled Sami,2023-05-27,2023-05-30,3,5,May,2,Saturday,3852,,Government insurance,True,False,True
+EP-0109,Mahmoud Ali,6,0-18,1,Female,Migraine,Medium,2,Dr. Mohamed Hassan,2023-06-01,2023-05-30,,6,Jun,2,Thursday,3852,,Uninsured,False,True,True
+EP-0110,Sara Youssef,40,31-45,3,Female,Stroke,Medium,2,Dr. Nour Khaled,2023-06-03,2023-05-31,,6,Jun,2,Saturday,3852,,Uninsured,False,True,True
+EP-0111,Ali Ali,48,46-60,4,Male,Fracture,High,3,Dr. Nour Khaled,2023-06-06,2023-06-07,1,6,Jun,2,Tuesday,593,593,Private insurance,True,False,False
+EP-0112,Ali Ali,73,61-75,5,Male,Stroke,Medium,2,Dr. Reem Abdallah,2023-06-06,2023-06-07,1,6,Jun,2,Tuesday,1536,1536,Government insurance,True,False,False
+EP-0113,Youssef Hassan,9,0-18,1,Female,Hypertension,Medium,2,Dr. Mohamed Hassan,2023-06-06,2023-06-08,2,6,Jun,2,Tuesday,4644,4644,Private insurance,True,False,False
+EP-0114,Mariam Abdallah,58,46-60,4,Female,Influenza,High,3,Dr. Khaled Sami,2023-06-07,2023-06-11,4,6,Jun,2,Wednesday,3852,,Government insurance,True,False,True
+EP-0115,Yasmin Abdallah,84,76+,6,Male,Influenza,High,3,Dr. Ahmed Ali,2023-06-10,2023-06-12,2,6,Jun,2,Saturday,1165,1165,Private insurance,True,False,False
+EP-0116,Mahmoud Youssef,72,61-75,5,Female,Influenza,Low,1,Dr. Sara Ibrahim,2023-06-11,2023-06-15,4,6,Jun,2,Sunday,1665,1665,Uninsured,False,False,False
+EP-0117,Nada Ali,45,31-45,3,Male,Common cold,Low,1,Dr. Yasmin Mahmoud,2023-06-11,2023-06-18,7,6,Jun,2,Sunday,5157,5157,Government insurance,True,False,False
+EP-0118,Mariam El-Sayed,21,19-30,2,Female,Influenza,Medium,2,Dr. Ahmed Ali,2023-06-12,2023-06-13,1,6,Jun,2,Monday,999,,Uninsured,False,False,True
+EP-0119,Nada Youssef,68,61-75,5,Female,Chronic allergy,Medium,2,Dr. Mohamed Hassan,2023-06-12,2023-06-21,9,6,Jun,2,Monday,999,,Private insurance,True,False,True
+EP-0120,Mariam Abdallah,3,0-18,1,Female,Common cold,Medium,2,Dr. Mohamed Hassan,2023-06-14,2023-06-16,2,6,Jun,2,Wednesday,1326,1326,Government insurance,True,False,False
+EP-0121,Mariam Ali,37,31-45,3,Female,Common cold,High,3,Dr. Nour Khaled,2023-06-14,2023-06-19,5,6,Jun,2,Wednesday,999,,Uninsured,False,False,True
+EP-0122,Ibrahim Youssef,24,19-30,2,Male,Fracture,Medium,2,Dr. Khaled Sami,2023-06-16,2023-06-23,7,6,Jun,2,Friday,3852,,Private insurance,True,False,True
+EP-0123,Nada Youssef,34,31-45,3,Female,Fracture,Low,1,Dr. Sara Ibrahim,2023-06-17,2023-06-18,1,6,Jun,2,Saturday,503,503,Private insurance,True,False,False
+EP-0124,Mahmoud Ibrahim,7,0-18,1,Female,Influenza,High,3,Dr. Yasmin Mahmoud,2023-06-19,2023-06-24,5,6,Jun,2,Monday,3852,,Private insurance,True,False,True
+EP-0125,Mariam Mahmoud,81,76+,6,Male,Migraine,Low,1,Dr. Mohamed Hassan,2023-06-24,2023-06-25,1,6,Jun,2,Saturday,535,535,Private insurance,True,False,False
+EP-0126,Mohamed El-Sayed,17,0-18,1,Male,Kidney failure,High,3,Dr. Nour Khaled,2023-06-24,2023-06-27,3,6,Jun,2,Saturday,999,,Government insurance,True,False,True
+EP-0127,Youssef Abdallah,16,0-18,1,Female,Diabetes,High,3,Dr. Nour Khaled,2023-06-24,2023-06-29,5,6,Jun,2,Saturday,3852,,Government insurance,True,False,True
+EP-0128,Yasmin Ali,8,0-18,1,Female,Diabetes,High,3,Dr. Yasmin Mahmoud,2023-06-26,2023-07-02,6,6,Jun,2,Monday,999,,Private insurance,True,False,True
+EP-0129,Mahmoud Mahmoud,80,76+,6,Male,Chronic allergy,High,3,Dr. Reem Abdallah,2023-06-28,2023-07-07,9,6,Jun,2,Wednesday,999,,Private insurance,True,False,True
+EP-0130,Mariam Hassan,55,46-60,4,Male,Fracture,High,3,Dr. Mohamed Hassan,2023-06-28,2023-07-12,14,6,Jun,2,Wednesday,999,,Government insurance,True,False,True
+EP-0131,Nada Hassan,10,0-18,1,Male,Fracture,Low,1,Dr. Yasmin Mahmoud,2023-07-02,2023-06-30,,7,Jul,3,Sunday,999,,Government insurance,True,True,True
+EP-0132,Mohamed Youssef,67,61-75,5,Female,Influenza,Low,1,Dr. Reem Abdallah,2023-07-04,2023-07-10,6,7,Jul,3,Tuesday,3852,,Government insurance,True,False,True
+EP-0133,Sara Ibrahim,71,61-75,5,Male,Chronic allergy,High,3,Dr. Yasmin Mahmoud,2023-07-04,2023-07-08,4,7,Jul,3,Tuesday,3852,,Private insurance,True,False,True
+EP-0134,Youssef Hassan,89,76+,6,Female,Chronic allergy,Medium,2,Dr. Mohamed Hassan,2023-07-04,2023-07-07,3,7,Jul,3,Tuesday,999,,Government insurance,True,False,True
+EP-0135,Ibrahim Youssef,40,31-45,3,Female,Influenza,Low,1,Dr. Sara Ibrahim,2023-07-05,2023-07-06,1,7,Jul,3,Wednesday,999,,Private insurance,True,False,True
+EP-0136,Mariam Youssef,36,31-45,3,Female,Chronic allergy,High,3,Dr. Reem Abdallah,2023-07-05,2023-07-03,,7,Jul,3,Wednesday,999,,Uninsured,False,True,True
+EP-0137,Nada Hassan,42,31-45,3,Female,Kidney failure,High,3,Dr. Reem Abdallah,2023-07-05,2023-07-22,17,7,Jul,3,Wednesday,3852,,Uninsured,False,False,True
+EP-0138,Mahmoud Mahmoud,9,0-18,1,Female,Pneumonia,High,3,Dr. Reem Abdallah,2023-07-12,2023-07-17,5,7,Jul,3,Wednesday,3852,,Private insurance,True,False,True
+EP-0139,Mariam Khaled,45,31-45,3,Female,Fracture,Low,1,Dr. Sara Ibrahim,2023-07-13,2023-07-16,3,7,Jul,3,Thursday,3852,,Government insurance,True,False,True
+EP-0140,Youssef Abdallah,62,61-75,5,Male,Hypertension,Medium,2,Dr. Khaled Sami,2023-07-13,2023-07-11,,7,Jul,3,Thursday,3852,,Government insurance,True,True,True
+EP-0141,Yasmin Ali,36,31-45,3,Male,Fracture,Medium,2,Dr. Mohamed Hassan,2023-07-14,2023-07-16,2,7,Jul,3,Friday,999,,Private insurance,True,False,True
+EP-0142,Yasmin Ali,27,19-30,2,Male,Hypertension,High,3,Dr. Sara Ibrahim,2023-07-15,2023-07-18,3,7,Jul,3,Saturday,999,,Private insurance,True,False,True
+EP-0143,Ibrahim Mahmoud,13,0-18,1,Female,Fracture,Medium,2,Dr. Mohamed Hassan,2023-07-18,2023-07-25,7,7,Jul,3,Tuesday,3852,,Uninsured,False,False,True
+EP-0144,Yasmin El-Sayed,41,31-45,3,Male,Stroke,Low,1,Dr. Khaled Sami,2023-07-18,2023-07-21,3,7,Jul,3,Tuesday,999,,Private insurance,True,False,True
+EP-0145,Nada El-Sayed,80,76+,6,Female,Pneumonia,Low,1,Dr. Khaled Sami,2023-07-19,2023-07-20,1,7,Jul,3,Wednesday,999,,Uninsured,False,False,True
+EP-0146,Ali Youssef,88,76+,6,Male,Common cold,Medium,2,Dr. Nour Khaled,2023-07-20,2023-08-04,15,7,Jul,3,Thursday,999,,Private insurance,True,False,True
+EP-0147,Nada Abdallah,65,61-75,5,Female,Common cold,Low,1,Dr. Ahmed Ali,2023-07-20,2023-07-23,3,7,Jul,3,Thursday,999,,Government insurance,True,False,True
+EP-0148,Mariam Ibrahim,73,61-75,5,Male,Migraine,Medium,2,Dr. Reem Abdallah,2023-07-21,2023-08-18,28,7,Jul,3,Friday,999,,Government insurance,True,False,True
+EP-0149,Ibrahim Ibrahim,89,76+,6,Female,Chronic allergy,Low,1,Dr. Mohamed Hassan,2023-07-23,2023-07-24,1,7,Jul,3,Sunday,3852,,Uninsured,False,False,True
+EP-0150,Sara Ali,19,19-30,2,Male,Kidney failure,Medium,2,Dr. Ahmed Ali,2023-07-26,2023-07-28,2,7,Jul,3,Wednesday,1262,1262,Private insurance,True,False,False
+EP-0151,Sara Ali,36,31-45,3,Female,Chronic allergy,High,3,Dr. Sara Ibrahim,2023-07-27,2023-07-29,2,7,Jul,3,Thursday,3852,,Private insurance,True,False,True
+EP-0152,Ali Khaled,7,0-18,1,Female,Common cold,Medium,2,Dr. Mohamed Hassan,2023-07-28,2023-07-26,,7,Jul,3,Friday,3852,,Uninsured,False,True,True
+EP-0153,Sara Ibrahim,76,76+,6,Male,Common cold,High,3,Dr. Ahmed Ali,2023-08-01,2023-08-04,3,8,Aug,3,Tuesday,999,,Uninsured,False,False,True
+EP-0154,Ali Khaled,21,19-30,2,Female,Influenza,High,3,Dr. Khaled Sami,2023-08-02,2023-08-06,4,8,Aug,3,Wednesday,999,,Private insurance,True,False,True
+EP-0155,Yasmin Ibrahim,2,0-18,1,Male,Fracture,Low,1,Dr. Yasmin Mahmoud,2023-08-03,2023-08-08,5,8,Aug,3,Thursday,3630,3630,Uninsured,False,False,False
+EP-0156,Ahmed Youssef,84,76+,6,Male,Chronic allergy,Medium,2,Dr. Mohamed Hassan,2023-08-08,2023-08-23,15,8,Aug,3,Tuesday,999,,Uninsured,False,False,True
+EP-0157,Yasmin Ibrahim,78,76+,6,Male,Chronic allergy,Low,1,Dr. Mohamed Hassan,2023-08-08,2023-08-29,21,8,Aug,3,Tuesday,999,,Private insurance,True,False,True
+EP-0158,Youssef Mahmoud,68,61-75,5,Female,Common cold,High,3,Dr. Nour Khaled,2023-08-08,2023-08-15,7,8,Aug,3,Tuesday,3852,,Private insurance,True,False,True
+EP-0159,Nada Hassan,12,0-18,1,Male,Stroke,High,3,Dr. Reem Abdallah,2023-08-10,2023-08-13,3,8,Aug,3,Thursday,3852,,Uninsured,False,False,True
+EP-0160,Mohamed Mahmoud,63,61-75,5,Female,Hypertension,Low,1,Dr. Ahmed Ali,2023-08-20,2023-08-23,3,8,Aug,3,Sunday,3852,,Government insurance,True,False,True
+EP-0161,Youssef Abdallah,1,0-18,1,Female,Common cold,High,3,Dr. Ahmed Ali,2023-08-20,2023-08-19,,8,Aug,3,Sunday,3852,,Uninsured,False,True,True
+EP-0162,Ibrahim Ali,34,31-45,3,Male,Influenza,Medium,2,Dr. Mohamed Hassan,2023-08-25,2023-09-13,19,8,Aug,3,Friday,999,,Private insurance,True,False,True
+EP-0163,Ahmed El-Sayed,22,19-30,2,Male,Influenza,Low,1,Dr. Nour Khaled,2023-09-02,2023-09-06,4,9,Sep,3,Saturday,2298,2298,Uninsured,False,False,False
+EP-0164,Ahmed Abdallah,26,19-30,2,Female,Migraine,Low,1,Dr. Nour Khaled,2023-09-03,2023-09-09,6,9,Sep,3,Sunday,3852,,Uninsured,False,False,True
+EP-0165,Ibrahim Youssef,68,61-75,5,Female,Kidney failure,Medium,2,Dr. Reem Abdallah,2023-09-08,2023-09-28,20,9,Sep,3,Friday,999,,Uninsured,False,False,True
+EP-0166,Mariam Youssef,82,76+,6,Female,Kidney failure,High,3,Dr. Ahmed Ali,2023-09-09,2023-09-05,,9,Sep,3,Saturday,999,,Private insurance,True,True,True
+EP-0167,Yasmin Ali,56,46-60,4,Female,Fracture,Low,1,Dr. Nour Khaled,2023-09-11,2023-09-14,3,9,Sep,3,Monday,936,936,Government insurance,True,False,False
+EP-0168,Ahmed Abdallah,37,31-45,3,Female,Migraine,Low,1,Dr. Yasmin Mahmoud,2023-09-13,2023-09-22,9,9,Sep,3,Wednesday,999,,Government insurance,True,False,True
+EP-0169,Ibrahim Mahmoud,48,46-60,4,Female,Pneumonia,High,3,Dr. Nour Khaled,2023-09-14,2023-09-09,,9,Sep,3,Thursday,3852,,Private insurance,True,True,True
+EP-0170,Ibrahim Ali,82,76+,6,Male,Chronic allergy,High,3,Dr. Yasmin Mahmoud,2023-09-18,2023-09-24,6,9,Sep,3,Monday,3852,,Government insurance,True,False,True
+EP-0171,Ibrahim Hassan,90,76+,6,Female,Diabetes,High,3,Dr. Nour Khaled,2023-09-18,2023-10-02,14,9,Sep,3,Monday,3852,,Uninsured,False,False,True
+EP-0172,Youssef Ibrahim,41,31-45,3,Male,Diabetes,Medium,2,Dr. Yasmin Mahmoud,2023-09-21,2023-09-25,4,9,Sep,3,Thursday,3852,,Uninsured,False,False,True
+EP-0173,Nada Hassan,24,19-30,2,Female,Chronic allergy,High,3,Dr. Mohamed Hassan,2023-09-25,2023-09-23,,9,Sep,3,Monday,999,,Private insurance,True,True,True
+EP-0174,Nada Mahmoud,45,31-45,3,Female,Diabetes,High,3,Dr. Reem Abdallah,2023-09-26,2023-10-02,6,9,Sep,3,Tuesday,4008,4008,Private insurance,True,False,False
+EP-0175,Youssef Abdallah,53,46-60,4,Male,Hypertension,High,3,Dr. Sara Ibrahim,2023-09-26,2023-10-03,7,9,Sep,3,Tuesday,999,,Private insurance,True,False,True
+EP-0176,Nada Youssef,86,76+,6,Male,Migraine,High,3,Dr. Ahmed Ali,2023-09-27,2023-09-25,,9,Sep,3,Wednesday,999,,Uninsured,False,True,True
+EP-0177,Ahmed Ibrahim,86,76+,6,Female,Chronic allergy,Medium,2,Dr. Nour Khaled,2023-09-28,2023-09-30,2,9,Sep,3,Thursday,1684,1684,Government insurance,True,False,False
+EP-0178,Ali Youssef,77,76+,6,Male,Common cold,High,3,Dr. Ahmed Ali,2023-10-01,2023-10-03,2,10,Oct,4,Sunday,3852,,Government insurance,True,False,True
+EP-0179,Nada Mahmoud,61,61-75,5,Female,Kidney failure,Medium,2,Dr. Ahmed Ali,2023-10-02,2023-10-03,1,10,Oct,4,Monday,1560,1560,Government insurance,True,False,False
+EP-0180,Mohamed Khaled,13,0-18,1,Female,Chronic allergy,Medium,2,Dr. Nour Khaled,2023-10-03,2023-10-06,3,10,Oct,4,Tuesday,3852,,Government insurance,True,False,True
+EP-0181,Ali Hassan,57,46-60,4,Male,Fracture,Low,1,Dr. Reem Abdallah,2023-10-04,2023-10-10,6,10,Oct,4,Wednesday,3852,,Government insurance,True,False,True
+EP-0182,Ibrahim Youssef,31,31-45,3,Male,Diabetes,High,3,Dr. Ahmed Ali,2023-10-04,2023-10-25,21,10,Oct,4,Wednesday,999,,Government insurance,True,False,True
+EP-0183,Sara Hassan,59,46-60,4,Male,Migraine,Medium,2,Dr. Mohamed Hassan,2023-10-04,2023-10-14,10,10,Oct,4,Wednesday,3852,,Uninsured,False,False,True
+EP-0184,Youssef El-Sayed,63,61-75,5,Male,Stroke,High,3,Dr. Khaled Sami,2023-10-04,2023-10-05,1,10,Oct,4,Wednesday,1230,1230,Uninsured,False,False,False
+EP-0185,Youssef Youssef,10,0-18,1,Male,Fracture,High,3,Dr. Nour Khaled,2023-10-06,2023-10-02,,10,Oct,4,Friday,1427,1427,Uninsured,False,True,False
+EP-0186,Sara Hassan,62,61-75,5,Male,Diabetes,Medium,2,Dr. Mohamed Hassan,2023-10-07,2023-10-09,2,10,Oct,4,Saturday,3449,3449,Government insurance,True,False,False
+EP-0187,Yasmin Abdallah,90,76+,6,Female,Chronic allergy,Low,1,Dr. Khaled Sami,2023-10-07,2023-10-08,1,10,Oct,4,Saturday,999,,Private insurance,True,False,True
+EP-0188,Youssef El-Sayed,61,61-75,5,Female,Stroke,Medium,2,Dr. Reem Abdallah,2023-10-08,2023-10-25,17,10,Oct,4,Sunday,999,,Uninsured,False,False,True
+EP-0189,Mahmoud Ibrahim,50,46-60,4,Female,Migraine,Low,1,Dr. Reem Abdallah,2023-10-09,2023-10-15,6,10,Oct,4,Monday,999,,Private insurance,True,False,True
+EP-0190,Mahmoud Mahmoud,85,76+,6,Female,Diabetes,Low,1,Dr. Ahmed Ali,2023-10-09,2023-10-13,4,10,Oct,4,Monday,999,,Private insurance,True,False,True
+EP-0191,Yasmin Ibrahim,72,61-75,5,Male,Fracture,Low,1,Dr. Ahmed Ali,2023-10-09,2023-10-14,5,10,Oct,4,Monday,3852,,Government insurance,True,False,True
+EP-0192,Yasmin Mahmoud,36,31-45,3,Female,Influenza,Medium,2,Dr. Yasmin Mahmoud,2023-10-09,2023-10-23,14,10,Oct,4,Monday,999,,Private insurance,True,False,True
+EP-0193,Nada Ibrahim,73,61-75,5,Male,Influenza,Low,1,Dr. Sara Ibrahim,2023-10-10,2023-10-12,2,10,Oct,4,Tuesday,3852,,Private insurance,True,False,True
+EP-0194,Ali Abdallah,90,76+,6,Male,Chronic allergy,High,3,Dr. Reem Abdallah,2023-10-12,2023-10-22,10,10,Oct,4,Thursday,3852,,Uninsured,False,False,True
+EP-0195,Yasmin Ali,80,76+,6,Male,Hypertension,High,3,Dr. Reem Abdallah,2023-10-13,2023-10-15,2,10,Oct,4,Friday,5035,5035,Private insurance,True,False,False
+EP-0196,Youssef Hassan,1,0-18,1,Male,Hypertension,Low,1,Dr. Mohamed Hassan,2023-10-13,2023-10-12,,10,Oct,4,Friday,3852,,Government insurance,True,True,True
+EP-0197,Ahmed Ibrahim,8,0-18,1,Male,Fracture,Medium,2,Dr. Sara Ibrahim,2023-10-17,2023-10-31,14,10,Oct,4,Tuesday,3852,,Government insurance,True,False,True
+EP-0198,Ali Hassan,18,0-18,1,Female,Influenza,High,3,Dr. Yasmin Mahmoud,2023-10-18,2023-10-20,2,10,Oct,4,Wednesday,3852,,Private insurance,True,False,True
+EP-0199,Yasmin Youssef,77,76+,6,Male,Stroke,Low,1,Dr. Nour Khaled,2023-10-18,2023-10-21,3,10,Oct,4,Wednesday,3852,,Private insurance,True,False,True
+EP-0200,Mariam Ibrahim,12,0-18,1,Female,Kidney failure,Low,1,Dr. Ahmed Ali,2023-10-20,2023-10-19,,10,Oct,4,Friday,3852,,Private insurance,True,True,True
+EP-0201,Ali Abdallah,67,61-75,5,Female,Diabetes,High,3,Dr. Yasmin Mahmoud,2023-10-22,2023-10-24,2,10,Oct,4,Sunday,999,,Government insurance,True,False,True
+EP-0202,Mohamed Ibrahim,83,76+,6,Male,Pneumonia,High,3,Dr. Reem Abdallah,2023-10-25,2023-11-08,14,10,Oct,4,Wednesday,3852,,Uninsured,False,False,True
+EP-0203,Mohamed Khaled,64,61-75,5,Female,Common cold,High,3,Dr. Nour Khaled,2023-10-26,2023-11-15,20,10,Oct,4,Thursday,3852,,Government insurance,True,False,True
+EP-0204,Youssef Abdallah,42,31-45,3,Female,Influenza,High,3,Dr. Sara Ibrahim,2023-10-26,2023-10-27,1,10,Oct,4,Thursday,961,961,Uninsured,False,False,False
+EP-0205,Ahmed Youssef,7,0-18,1,Male,Hypertension,Low,1,Dr. Yasmin Mahmoud,2023-11-01,2023-11-04,3,11,Nov,4,Wednesday,2807,2807,Government insurance,True,False,False
+EP-0206,Sara Abdallah,46,46-60,4,Male,Diabetes,Medium,2,Dr. Khaled Sami,2023-11-01,2023-10-29,,11,Nov,4,Wednesday,4619,4619,Private insurance,True,True,False
+EP-0207,Nada Khaled,25,19-30,2,Female,Fracture,Medium,2,Dr. Sara Ibrahim,2023-11-04,2023-11-07,3,11,Nov,4,Saturday,3852,,Private insurance,True,False,True
+EP-0208,Ahmed Mahmoud,88,76+,6,Male,Migraine,High,3,Dr. Yasmin Mahmoud,2023-11-05,2023-11-10,5,11,Nov,4,Sunday,3852,,Private insurance,True,False,True
+EP-0209,Ali El-Sayed,45,31-45,3,Male,Influenza,Low,1,Dr. Mohamed Hassan,2023-11-05,2023-11-22,17,11,Nov,4,Sunday,999,,Private insurance,True,False,True
+EP-0210,Mariam Ibrahim,19,19-30,2,Female,Influenza,High,3,Dr. Yasmin Mahmoud,2023-11-06,2023-11-05,,11,Nov,4,Monday,3852,,Uninsured,False,True,True
+EP-0211,Sara Mahmoud,14,0-18,1,Male,Kidney failure,Medium,2,Dr. Sara Ibrahim,2023-11-11,2023-11-20,9,11,Nov,4,Saturday,999,,Uninsured,False,False,True
+EP-0212,Mahmoud Abdallah,44,31-45,3,Female,Influenza,Low,1,Dr. Reem Abdallah,2023-11-14,2023-11-15,1,11,Nov,4,Tuesday,3852,,Private insurance,True,False,True
+EP-0213,Nada Mahmoud,48,46-60,4,Female,Diabetes,Medium,2,Dr. Mohamed Hassan,2023-11-14,2023-11-18,4,11,Nov,4,Tuesday,3852,,Private insurance,True,False,True
+EP-0214,Sara Ali,54,46-60,4,Male,Stroke,Low,1,Dr. Ahmed Ali,2023-11-14,2023-11-22,8,11,Nov,4,Tuesday,6660,6660,Private insurance,True,False,False
+EP-0215,Ibrahim Ali,50,46-60,4,Male,Chronic allergy,Medium,2,Dr. Khaled Sami,2023-11-15,2023-11-27,12,11,Nov,4,Wednesday,999,,Uninsured,False,False,True
+EP-0216,Ahmed Khaled,86,76+,6,Male,Influenza,High,3,Dr. Ahmed Ali,2023-11-16,2023-11-19,3,11,Nov,4,Thursday,999,,Uninsured,False,False,True
+EP-0217,Mohamed El-Sayed,44,31-45,3,Female,Chronic allergy,Medium,2,Dr. Yasmin Mahmoud,2023-11-18,2023-11-22,4,11,Nov,4,Saturday,3852,,Private insurance,True,False,True
+EP-0218,Ahmed Ali,50,46-60,4,Female,Influenza,Medium,2,Dr. Reem Abdallah,2023-11-23,2023-11-27,4,11,Nov,4,Thursday,3898,3898,Private insurance,True,False,False
+EP-0219,Mariam El-Sayed,78,76+,6,Male,Influenza,Medium,2,Dr. Ahmed Ali,2023-11-23,2023-12-07,14,11,Nov,4,Thursday,999,,Government insurance,True,False,True
+EP-0220,Ibrahim Abdallah,7,0-18,1,Female,Fracture,Medium,2,Dr. Ahmed Ali,2023-11-24,2023-11-26,2,11,Nov,4,Friday,999,,Uninsured,False,False,True
+EP-0221,Ali El-Sayed,9,0-18,1,Female,Hypertension,Low,1,Dr. Sara Ibrahim,2023-11-27,2023-11-30,3,11,Nov,4,Monday,999,,Uninsured,False,False,True
+EP-0222,Youssef Ibrahim,11,0-18,1,Male,Diabetes,Medium,2,Dr. Ahmed Ali,2023-11-27,2023-12-02,5,11,Nov,4,Monday,3847,3847,Private insurance,True,False,False
+EP-0223,Mahmoud Mahmoud,78,76+,6,Male,Hypertension,Medium,2,Dr. Sara Ibrahim,2023-11-28,2023-12-12,14,11,Nov,4,Tuesday,999,,Government insurance,True,False,True
+EP-0224,Mariam Mahmoud,32,31-45,3,Male,Migraine,Medium,2,Dr. Mohamed Hassan,2023-11-28,2023-12-01,3,11,Nov,4,Tuesday,999,,Government insurance,True,False,True
+EP-0225,Nada Abdallah,14,0-18,1,Male,Hypertension,High,3,Dr. Sara Ibrahim,2023-12-03,2023-12-06,3,12,Dec,4,Sunday,999,,Private insurance,True,False,True
+EP-0226,Ali Hassan,33,31-45,3,Male,Chronic allergy,Low,1,Dr. Reem Abdallah,2023-12-04,2023-12-12,8,12,Dec,4,Monday,999,,Uninsured,False,False,True
+EP-0227,Mahmoud Abdallah,61,61-75,5,Female,Kidney failure,Medium,2,Dr. Reem Abdallah,2023-12-05,2023-12-07,2,12,Dec,4,Tuesday,3852,,Uninsured,False,False,True
+EP-0228,Ibrahim Youssef,19,19-30,2,Female,Chronic allergy,Low,1,Dr. Sara Ibrahim,2023-12-06,2023-12-09,3,12,Dec,4,Wednesday,999,,Uninsured,False,False,True
+EP-0229,Mahmoud Mahmoud,74,61-75,5,Male,Hypertension,Low,1,Dr. Khaled Sami,2023-12-06,2023-12-08,2,12,Dec,4,Wednesday,5998,5998,Government insurance,True,False,False
+EP-0230,Sara Khaled,72,61-75,5,Male,Fracture,Low,1,Dr. Khaled Sami,2023-12-07,2023-12-10,3,12,Dec,4,Thursday,999,,Private insurance,True,False,True
+EP-0231,Mohamed Hassan,83,76+,6,Male,Diabetes,Medium,2,Dr. Yasmin Mahmoud,2023-12-09,2023-12-05,,12,Dec,4,Saturday,3852,,Uninsured,False,True,True
+EP-0232,Ali Youssef,86,76+,6,Male,Kidney failure,Medium,2,Dr. Reem Abdallah,2023-12-11,2023-12-07,,12,Dec,4,Monday,999,,Uninsured,False,True,True
+EP-0233,Mahmoud El-Sayed,1,0-18,1,Female,Common cold,High,3,Dr. Yasmin Mahmoud,2023-12-12,2023-12-13,1,12,Dec,4,Tuesday,999,,Uninsured,False,False,True
+EP-0234,Yasmin Abdallah,17,0-18,1,Female,Influenza,Medium,2,Dr. Yasmin Mahmoud,2023-12-12,2023-12-13,1,12,Dec,4,Tuesday,3852,,Government insurance,True,False,True
+EP-0235,Mariam El-Sayed,62,61-75,5,Female,Pneumonia,High,3,Dr. Ahmed Ali,2023-12-13,2023-12-16,3,12,Dec,4,Wednesday,3852,,Government insurance,True,False,True
+EP-0236,Mohamed Khaled,17,0-18,1,Female,Diabetes,Low,1,Dr. Nour Khaled,2023-12-13,2023-12-15,2,12,Dec,4,Wednesday,3852,,Uninsured,False,False,True
+EP-0237,Sara Mahmoud,60,46-60,4,Female,Fracture,Low,1,Dr. Sara Ibrahim,2023-12-13,2023-12-20,7,12,Dec,4,Wednesday,3852,,Uninsured,False,False,True
+EP-0238,Ahmed Ali,37,31-45,3,Female,Chronic allergy,High,3,Dr. Reem Abdallah,2023-12-15,2023-12-29,14,12,Dec,4,Friday,3852,,Government insurance,True,False,True
+EP-0239,Mohamed Abdallah,49,46-60,4,Female,Common cold,High,3,Dr. Mohamed Hassan,2023-12-16,2023-12-20,4,12,Dec,4,Saturday,3852,,Private insurance,True,False,True
+EP-0240,Yasmin Ali,70,61-75,5,Female,Influenza,Medium,2,Dr. Mohamed Hassan,2023-12-22,2023-12-21,,12,Dec,4,Friday,3852,,Government insurance,True,True,True
+EP-0241,Ahmed El-Sayed,58,46-60,4,Female,Pneumonia,Medium,2,Dr. Ahmed Ali,2023-12-24,2023-12-27,3,12,Dec,4,Sunday,3852,,Uninsured,False,False,True
+EP-0242,Ali Youssef,85,76+,6,Male,Influenza,Low,1,Dr. Nour Khaled,2023-12-25,2023-12-27,2,12,Dec,4,Monday,999,,Private insurance,True,False,True
+EP-0243,Mahmoud Youssef,81,76+,6,Female,Diabetes,Low,1,Dr. Khaled Sami,2023-12-25,2024-01-14,20,12,Dec,4,Monday,999,,Uninsured,False,False,True
+EP-0244,Mariam Mahmoud,59,46-60,4,Female,Common cold,High,3,Dr. Yasmin Mahmoud,2023-12-26,2024-01-12,17,12,Dec,4,Tuesday,999,,Government insurance,True,False,True
+EP-0245,Nada Abdallah,52,46-60,4,Male,Fracture,Low,1,Dr. Khaled Sami,2023-12-26,2023-12-31,5,12,Dec,4,Tuesday,3842,3842,Private insurance,True,False,False
+EP-0246,Nada El-Sayed,83,76+,6,Female,Chronic allergy,Medium,2,Dr. Khaled Sami,2023-12-26,2024-01-05,10,12,Dec,4,Tuesday,3852,,Uninsured,False,False,True
+EP-0247,Mahmoud Hassan,63,61-75,5,Male,Fracture,High,3,Dr. Mohamed Hassan,2023-12-28,2023-12-29,1,12,Dec,4,Thursday,999,,Government insurance,True,False,True

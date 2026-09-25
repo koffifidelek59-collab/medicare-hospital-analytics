@@ -1,0 +1,248 @@
+﻿EpisodeID,PatientName,Age,AgeBand,AgeBandOrder,Gender,Diagnosis,Severity,SeverityRank,Doctor,AdmitDate,DischargeDate,LengthOfStay,AdmitMonth,AdmitMonthName,AdmitQuarter,AdmitWeekday,Bill,BillValid,Insurance,IsInsured,DateError,BillIsPlaceholder,GenderEN,SeverityEN,InsuranceEN,DiagnosisEN
+EP-0001,مريم خالد,22,19-30,2,ذكر,كسور,منخفض,1,د. ياسمين محمود,2023-01-01,2023-01-05,4,1,Jan,1,Sunday,5339,5339,تأمين حكومي,True,False,False,Male,Low,Government,Fracture
+EP-0002,مريم يوسف,57,46-60,4,أنثى,حساسية مزمنة,منخفض,1,د. ياسمين محمود,2023-01-03,2022-12-31,,1,Jan,1,Tuesday,999,,تأمين خاص,True,True,True,Female,Low,Private,Chronic allergy
+EP-0003,إبراهيم حسن,56,46-60,4,ذكر,صداع نصفي,منخفض,1,د. ياسمين محمود,2023-01-05,2023-01-11,6,1,Jan,1,Thursday,3852,,بدون تأمين,False,False,True,Male,Low,Uninsured,Migraine
+EP-0004,مريم يوسف,84,76+,6,أنثى,سكري,منخفض,1,د. ياسمين محمود,2023-01-05,2023-01-10,5,1,Jan,1,Thursday,3920,3920,تأمين حكومي,True,False,False,Female,Low,Government,Diabetes
+EP-0005,ياسمين حسن,26,19-30,2,ذكر,فشل كلوي,مرتفع,3,د. أحمد علي,2023-01-05,2023-01-07,2,1,Jan,1,Thursday,999,,تأمين حكومي,True,False,True,Male,High,Government,Kidney failure
+EP-0006,أحمد حسن,13,0-18,1,ذكر,حساسية مزمنة,منخفض,1,د. محمد حسن,2023-01-06,2023-01-10,4,1,Jan,1,Friday,999,,تأمين خاص,True,False,True,Male,Low,Private,Chronic allergy
+EP-0007,محمود عبد الله,79,76+,6,أنثى,حساسية مزمنة,مرتفع,3,د. أحمد علي,2023-01-06,2023-01-10,4,1,Jan,1,Friday,999,,تأمين حكومي,True,False,True,Female,High,Government,Chronic allergy
+EP-0008,أحمد السيد,56,46-60,4,أنثى,ضغط مرتفع,متوسط,2,د. أحمد علي,2023-01-08,2023-01-28,20,1,Jan,1,Sunday,999,,تأمين خاص,True,False,True,Female,Medium,Private,Hypertension
+EP-0009,إبراهيم محمود,60,46-60,4,أنثى,أنفلونزا,متوسط,2,د. ياسمين محمود,2023-01-08,2023-01-11,3,1,Jan,1,Sunday,999,,بدون تأمين,False,False,True,Female,Medium,Uninsured,Influenza
+EP-0010,سارة عبد الله,38,31-45,3,ذكر,أنفلونزا,منخفض,1,د. سارة إبراهيم,2023-01-10,2023-01-13,3,1,Jan,1,Tuesday,999,,تأمين حكومي,True,False,True,Male,Low,Government,Influenza
+EP-0011,سارة عبد الله,89,76+,6,ذكر,جلطة,مرتفع,3,د. ريم عبد الله,2023-01-10,2023-01-23,13,1,Jan,1,Tuesday,3852,,تأمين حكومي,True,False,True,Male,High,Government,Stroke
+EP-0012,سارة يوسف,59,46-60,4,أنثى,فشل كلوي,متوسط,2,د. ياسمين محمود,2023-01-14,2023-01-21,7,1,Jan,1,Saturday,999,,تأمين خاص,True,False,True,Female,Medium,Private,Kidney failure
+EP-0013,محمود السيد,81,76+,6,أنثى,نزلة برد,مرتفع,3,د. محمد حسن,2023-01-15,2023-01-18,3,1,Jan,1,Sunday,2873,2873,بدون تأمين,False,False,False,Female,High,Uninsured,Common cold
+EP-0014,مريم حسن,70,61-75,5,ذكر,ضغط مرتفع,منخفض,1,د. سارة إبراهيم,2023-01-15,2023-01-17,2,1,Jan,1,Sunday,999,,تأمين خاص,True,False,True,Male,Low,Private,Hypertension
+EP-0015,ندى إبراهيم,41,31-45,3,أنثى,ضغط مرتفع,منخفض,1,د. نور خالد,2023-01-16,2023-01-22,6,1,Jan,1,Monday,3293,3293,تأمين خاص,True,False,False,Female,Low,Private,Hypertension
+EP-0016,محمود عبد الله,65,61-75,5,ذكر,ضغط مرتفع,منخفض,1,د. محمد حسن,2023-01-17,2023-01-19,2,1,Jan,1,Tuesday,999,,بدون تأمين,False,False,True,Male,Low,Uninsured,Hypertension
+EP-0017,محمود محمود,70,61-75,5,أنثى,سكري,متوسط,2,د. ريم عبد الله,2023-01-18,2023-01-17,,1,Jan,1,Wednesday,999,,تأمين خاص,True,True,True,Female,Medium,Private,Diabetes
+EP-0018,إبراهيم يوسف,5,0-18,1,أنثى,ضغط مرتفع,منخفض,1,د. ياسمين محمود,2023-01-19,2023-02-01,13,1,Jan,1,Thursday,3852,,تأمين حكومي,True,False,True,Female,Low,Government,Hypertension
+EP-0019,محمود خالد,11,0-18,1,ذكر,أنفلونزا,مرتفع,3,د. محمد حسن,2023-01-22,2023-02-04,13,1,Jan,1,Sunday,3852,,بدون تأمين,False,False,True,Male,High,Uninsured,Influenza
+EP-0020,أحمد يوسف,48,46-60,4,ذكر,ضغط مرتفع,منخفض,1,د. ريم عبد الله,2023-01-23,2023-01-18,,1,Jan,1,Monday,999,,بدون تأمين,False,True,True,Male,Low,Uninsured,Hypertension
+EP-0021,مريم علي,56,46-60,4,أنثى,سكري,متوسط,2,د. أحمد علي,2023-01-23,2023-01-28,5,1,Jan,1,Monday,999,,تأمين خاص,True,False,True,Female,Medium,Private,Diabetes
+EP-0022,علي إبراهيم,49,46-60,4,أنثى,فشل كلوي,منخفض,1,د. سارة إبراهيم,2023-01-26,2023-02-07,12,1,Jan,1,Thursday,999,,بدون تأمين,False,False,True,Female,Low,Uninsured,Kidney failure
+EP-0023,ندى حسن,5,0-18,1,ذكر,فشل كلوي,منخفض,1,د. خالد سامي,2023-01-26,2023-01-31,5,1,Jan,1,Thursday,3852,,تأمين حكومي,True,False,True,Male,Low,Government,Kidney failure
+EP-0024,ياسمين علي,12,0-18,1,ذكر,أنفلونزا,متوسط,2,د. نور خالد,2023-01-27,2023-02-12,16,1,Jan,1,Friday,3852,,تأمين خاص,True,False,True,Male,Medium,Private,Influenza
+EP-0025,يوسف السيد,76,76+,6,أنثى,نزلة برد,منخفض,1,د. أحمد علي,2023-02-01,2023-01-28,,2,Feb,1,Wednesday,999,,بدون تأمين,False,True,True,Female,Low,Uninsured,Common cold
+EP-0026,سارة يوسف,15,0-18,1,أنثى,أنفلونزا,متوسط,2,د. ياسمين محمود,2023-02-02,2023-02-06,4,2,Feb,1,Thursday,999,,تأمين خاص,True,False,True,Female,Medium,Private,Influenza
+EP-0027,ياسمين عبد الله,88,76+,6,ذكر,كسور,منخفض,1,د. محمد حسن,2023-02-02,2023-02-07,5,2,Feb,1,Thursday,3857,3857,تأمين حكومي,True,False,False,Male,Low,Government,Fracture
+EP-0028,يوسف علي,28,19-30,2,أنثى,نزلة برد,منخفض,1,د. أحمد علي,2023-02-02,2023-02-03,1,2,Feb,1,Thursday,2600,2600,تأمين خاص,True,False,False,Female,Low,Private,Common cold
+EP-0029,يوسف محمود,17,0-18,1,أنثى,أنفلونزا,متوسط,2,د. ريم عبد الله,2023-02-05,2023-02-14,9,2,Feb,1,Sunday,3852,,تأمين حكومي,True,False,True,Female,Medium,Government,Influenza
+EP-0030,إبراهيم حسن,82,76+,6,أنثى,سكري,مرتفع,3,د. ريم عبد الله,2023-02-06,2023-02-08,2,2,Feb,1,Monday,999,,تأمين حكومي,True,False,True,Female,High,Government,Diabetes
+EP-0031,ياسمين إبراهيم,16,0-18,1,أنثى,سكري,مرتفع,3,د. ريم عبد الله,2023-02-06,2023-02-09,3,2,Feb,1,Monday,3852,,تأمين حكومي,True,False,True,Female,High,Government,Diabetes
+EP-0032,مريم يوسف,86,76+,6,ذكر,جلطة,منخفض,1,د. خالد سامي,2023-02-09,2023-02-18,9,2,Feb,1,Thursday,999,,تأمين خاص,True,False,True,Male,Low,Private,Stroke
+EP-0033,محمد السيد,17,0-18,1,ذكر,كسور,منخفض,1,د. أحمد علي,2023-02-11,2023-02-27,16,2,Feb,1,Saturday,3852,,تأمين حكومي,True,False,True,Male,Low,Government,Fracture
+EP-0034,علي إبراهيم,76,76+,6,أنثى,كسور,متوسط,2,د. ريم عبد الله,2023-02-15,2023-02-27,12,2,Feb,1,Wednesday,6763,6763,تأمين حكومي,True,False,False,Female,Medium,Government,Fracture
+EP-0035,ياسمين حسن,87,76+,6,ذكر,نزلة برد,منخفض,1,د. خالد سامي,2023-02-15,2023-03-05,18,2,Feb,1,Wednesday,999,,تأمين حكومي,True,False,True,Male,Low,Government,Common cold
+EP-0036,مريم السيد,24,19-30,2,ذكر,كسور,مرتفع,3,د. محمد حسن,2023-02-17,2023-02-19,2,2,Feb,1,Friday,1570,1570,تأمين خاص,True,False,False,Male,High,Private,Fracture
+EP-0037,إبراهيم عبد الله,42,31-45,3,ذكر,كسور,متوسط,2,د. نور خالد,2023-02-19,2023-02-20,1,2,Feb,1,Sunday,592,592,تأمين حكومي,True,False,False,Male,Medium,Government,Fracture
+EP-0038,محمود علي,58,46-60,4,أنثى,حساسية مزمنة,مرتفع,3,د. محمد حسن,2023-02-19,2023-03-11,20,2,Feb,1,Sunday,3852,,تأمين خاص,True,False,True,Female,High,Private,Chronic allergy
+EP-0039,علي محمود,69,61-75,5,ذكر,حساسية مزمنة,متوسط,2,د. خالد سامي,2023-02-22,2023-02-25,3,2,Feb,1,Wednesday,2390,2390,تأمين خاص,True,False,False,Male,Medium,Private,Chronic allergy
+EP-0040,يوسف عبد الله,44,31-45,3,أنثى,كسور,مرتفع,3,د. نور خالد,2023-02-23,2023-02-21,,2,Feb,1,Thursday,999,,تأمين خاص,True,True,True,Female,High,Private,Fracture
+EP-0041,أحمد عبد الله,73,61-75,5,أنثى,جلطة,منخفض,1,د. ياسمين محمود,2023-02-25,2023-03-18,21,2,Feb,1,Saturday,999,,تأمين خاص,True,False,True,Female,Low,Private,Stroke
+EP-0042,يوسف عبد الله,33,31-45,3,ذكر,كسور,مرتفع,3,د. ريم عبد الله,2023-02-28,2023-03-04,4,2,Feb,1,Tuesday,999,,تأمين حكومي,True,False,True,Male,High,Government,Fracture
+EP-0043,محمود حسن,7,0-18,1,أنثى,نزلة برد,مرتفع,3,د. سارة إبراهيم,2023-03-02,2023-03-05,3,3,Mar,1,Thursday,4772,4772,تأمين خاص,True,False,False,Female,High,Private,Common cold
+EP-0044,ياسمين محمود,33,31-45,3,ذكر,فشل كلوي,متوسط,2,د. ريم عبد الله,2023-03-05,2023-03-08,3,3,Mar,1,Sunday,3852,,تأمين خاص,True,False,True,Male,Medium,Private,Kidney failure
+EP-0045,يوسف حسن,55,46-60,4,ذكر,حساسية مزمنة,منخفض,1,د. أحمد علي,2023-03-06,2023-03-12,6,3,Mar,1,Monday,1208,1208,بدون تأمين,False,False,False,Male,Low,Uninsured,Chronic allergy
+EP-0046,ياسمين إبراهيم,21,19-30,2,ذكر,ضغط مرتفع,متوسط,2,د. ريم عبد الله,2023-03-09,2023-03-13,4,3,Mar,1,Thursday,3852,,بدون تأمين,False,False,True,Male,Medium,Uninsured,Hypertension
+EP-0047,علي عبد الله,18,0-18,1,أنثى,التهاب رئوي,مرتفع,3,د. خالد سامي,2023-03-10,2023-03-14,4,3,Mar,1,Friday,3852,,تأمين حكومي,True,False,True,Female,High,Government,Pneumonia
+EP-0048,علي عبد الله,18,0-18,1,أنثى,سكري,مرتفع,3,د. خالد سامي,2023-03-10,2023-03-14,4,3,Mar,1,Friday,3852,,تأمين حكومي,True,False,True,Female,High,Government,Diabetes
+EP-0049,ياسمين حسن,65,61-75,5,أنثى,كسور,مرتفع,3,د. محمد حسن,2023-03-12,2023-03-14,2,3,Mar,1,Sunday,999,,تأمين خاص,True,False,True,Female,High,Private,Fracture
+EP-0050,ياسمين محمود,5,0-18,1,أنثى,أنفلونزا,مرتفع,3,د. خالد سامي,2023-03-12,2023-03-07,,3,Mar,1,Sunday,999,,تأمين حكومي,True,True,True,Female,High,Government,Influenza
+EP-0051,إبراهيم خالد,16,0-18,1,أنثى,أنفلونزا,منخفض,1,د. أحمد علي,2023-03-15,2023-03-23,8,3,Mar,1,Wednesday,6551,6551,تأمين حكومي,True,False,False,Female,Low,Government,Influenza
+EP-0052,علي علي,13,0-18,1,أنثى,نزلة برد,منخفض,1,د. ريم عبد الله,2023-03-16,2023-03-19,3,3,Mar,1,Thursday,999,,تأمين خاص,True,False,True,Female,Low,Private,Common cold
+EP-0053,مريم يوسف,49,46-60,4,أنثى,ضغط مرتفع,منخفض,1,د. ريم عبد الله,2023-03-20,2023-03-23,3,3,Mar,1,Monday,999,,تأمين خاص,True,False,True,Female,Low,Private,Hypertension
+EP-0054,محمد يوسف,40,31-45,3,أنثى,حساسية مزمنة,مرتفع,3,د. ريم عبد الله,2023-03-22,2023-03-20,,3,Mar,1,Wednesday,999,,بدون تأمين,False,True,True,Female,High,Uninsured,Chronic allergy
+EP-0055,محمد يوسف,30,19-30,2,أنثى,سكري,مرتفع,3,د. خالد سامي,2023-03-22,2023-03-29,7,3,Mar,1,Wednesday,3852,,تأمين خاص,True,False,True,Female,High,Private,Diabetes
+EP-0056,ندى حسن,27,19-30,2,أنثى,سكري,متوسط,2,د. ياسمين محمود,2023-03-22,2023-03-24,2,3,Mar,1,Wednesday,3852,,تأمين حكومي,True,False,True,Female,Medium,Government,Diabetes
+EP-0057,مريم حسن,6,0-18,1,ذكر,ضغط مرتفع,منخفض,1,د. خالد سامي,2023-03-25,2023-03-22,,3,Mar,1,Saturday,3852,,تأمين حكومي,True,True,True,Male,Low,Government,Hypertension
+EP-0058,إبراهيم خالد,58,46-60,4,ذكر,أنفلونزا,متوسط,2,د. ياسمين محمود,2023-03-26,2023-04-02,7,3,Mar,1,Sunday,999,,بدون تأمين,False,False,True,Male,Medium,Uninsured,Influenza
+EP-0059,محمد خالد,81,76+,6,ذكر,نزلة برد,منخفض,1,د. محمد حسن,2023-03-26,2023-04-09,14,3,Mar,1,Sunday,999,,بدون تأمين,False,False,True,Male,Low,Uninsured,Common cold
+EP-0060,مريم حسن,78,76+,6,ذكر,ضغط مرتفع,مرتفع,3,د. ياسمين محمود,2023-03-26,2023-04-25,30,3,Mar,1,Sunday,999,,تأمين خاص,True,False,True,Male,High,Private,Hypertension
+EP-0061,ياسمين يوسف,31,31-45,3,أنثى,كسور,منخفض,1,د. أحمد علي,2023-03-28,2023-03-30,2,3,Mar,1,Tuesday,999,,بدون تأمين,False,False,True,Female,Low,Uninsured,Fracture
+EP-0062,ياسمين السيد,31,31-45,3,أنثى,أنفلونزا,متوسط,2,د. أحمد علي,2023-04-02,2023-04-13,11,4,Apr,2,Sunday,3852,,تأمين حكومي,True,False,True,Female,Medium,Government,Influenza
+EP-0063,علي حسن,56,46-60,4,ذكر,حساسية مزمنة,مرتفع,3,د. أحمد علي,2023-04-03,2023-04-17,14,4,Apr,2,Monday,999,,تأمين حكومي,True,False,True,Male,High,Government,Chronic allergy
+EP-0064,أحمد السيد,89,76+,6,ذكر,فشل كلوي,مرتفع,3,د. ياسمين محمود,2023-04-05,2023-04-17,12,4,Apr,2,Wednesday,999,,بدون تأمين,False,False,True,Male,High,Uninsured,Kidney failure
+EP-0065,إبراهيم يوسف,41,31-45,3,أنثى,نزلة برد,منخفض,1,د. خالد سامي,2023-04-05,2023-04-23,18,4,Apr,2,Wednesday,3852,,تأمين خاص,True,False,True,Female,Low,Private,Common cold
+EP-0066,يوسف إبراهيم,50,46-60,4,ذكر,كسور,مرتفع,3,د. ياسمين محمود,2023-04-06,2023-04-02,,4,Apr,2,Thursday,999,,تأمين خاص,True,True,True,Male,High,Private,Fracture
+EP-0067,محمود حسن,89,76+,6,ذكر,فشل كلوي,متوسط,2,د. أحمد علي,2023-04-08,2023-04-11,3,4,Apr,2,Saturday,4562,4562,تأمين خاص,True,False,False,Male,Medium,Private,Kidney failure
+EP-0068,مريم علي,59,46-60,4,ذكر,التهاب رئوي,مرتفع,3,د. محمد حسن,2023-04-09,2023-04-12,3,4,Apr,2,Sunday,1086,1086,تأمين خاص,True,False,False,Male,High,Private,Pneumonia
+EP-0069,ندى حسن,49,46-60,4,أنثى,نزلة برد,مرتفع,3,د. سارة إبراهيم,2023-04-11,2023-04-14,3,4,Apr,2,Tuesday,3682,3682,بدون تأمين,False,False,False,Female,High,Uninsured,Common cold
+EP-0070,أحمد إبراهيم,46,46-60,4,ذكر,نزلة برد,متوسط,2,د. خالد سامي,2023-04-12,2023-04-27,15,4,Apr,2,Wednesday,3852,,تأمين خاص,True,False,True,Male,Medium,Private,Common cold
+EP-0071,علي علي,43,31-45,3,أنثى,حساسية مزمنة,مرتفع,3,د. أحمد علي,2023-04-12,2023-04-14,2,4,Apr,2,Wednesday,2213,2213,تأمين حكومي,True,False,False,Female,High,Government,Chronic allergy
+EP-0072,محمد السيد,59,46-60,4,ذكر,سكري,مرتفع,3,د. محمد حسن,2023-04-13,2023-04-15,2,4,Apr,2,Thursday,3852,,بدون تأمين,False,False,True,Male,High,Uninsured,Diabetes
+EP-0073,مريم علي,5,0-18,1,ذكر,سكري,متوسط,2,د. ريم عبد الله,2023-04-14,2023-04-17,3,4,Apr,2,Friday,999,,تأمين حكومي,True,False,True,Male,Medium,Government,Diabetes
+EP-0074,إبراهيم محمود,11,0-18,1,ذكر,فشل كلوي,منخفض,1,د. خالد سامي,2023-04-18,2023-04-22,4,4,Apr,2,Tuesday,3852,,تأمين حكومي,True,False,True,Male,Low,Government,Kidney failure
+EP-0075,محمود حسن,32,31-45,3,ذكر,كسور,مرتفع,3,د. نور خالد,2023-04-22,2023-04-25,3,4,Apr,2,Saturday,3852,,تأمين حكومي,True,False,True,Male,High,Government,Fracture
+EP-0076,سارة محمود,29,19-30,2,ذكر,كسور,متوسط,2,د. محمد حسن,2023-04-25,2023-05-13,18,4,Apr,2,Tuesday,3852,,بدون تأمين,False,False,True,Male,Medium,Uninsured,Fracture
+EP-0077,إبراهيم عبد الله,31,31-45,3,أنثى,نزلة برد,متوسط,2,د. نور خالد,2023-04-26,2023-04-28,2,4,Apr,2,Wednesday,999,,تأمين خاص,True,False,True,Female,Medium,Private,Common cold
+EP-0078,سارة يوسف,55,46-60,4,أنثى,كسور,متوسط,2,د. أحمد علي,2023-04-27,2023-05-02,5,4,Apr,2,Thursday,2214,2214,تأمين حكومي,True,False,False,Female,Medium,Government,Fracture
+EP-0079,محمد محمود,41,31-45,3,أنثى,صداع نصفي,منخفض,1,د. ياسمين محمود,2023-05-02,2023-05-11,9,5,May,2,Tuesday,3852,,تأمين حكومي,True,False,True,Female,Low,Government,Migraine
+EP-0080,إبراهيم محمود,88,76+,6,ذكر,صداع نصفي,منخفض,1,د. سارة إبراهيم,2023-05-03,2023-05-08,5,5,May,2,Wednesday,3852,,تأمين حكومي,True,False,True,Male,Low,Government,Migraine
+EP-0081,يوسف حسن,31,31-45,3,ذكر,صداع نصفي,مرتفع,3,د. خالد سامي,2023-05-03,2023-05-04,1,5,May,2,Wednesday,1484,1484,بدون تأمين,False,False,False,Male,High,Uninsured,Migraine
+EP-0082,سارة خالد,14,0-18,1,أنثى,أنفلونزا,متوسط,2,د. ريم عبد الله,2023-05-04,2023-05-08,4,5,May,2,Thursday,2973,2973,تأمين خاص,True,False,False,Female,Medium,Private,Influenza
+EP-0083,إبراهيم يوسف,42,31-45,3,ذكر,أنفلونزا,مرتفع,3,د. محمد حسن,2023-05-05,2023-05-08,3,5,May,2,Friday,999,,تأمين حكومي,True,False,True,Male,High,Government,Influenza
+EP-0084,محمود السيد,50,46-60,4,أنثى,نزلة برد,مرتفع,3,د. ريم عبد الله,2023-05-05,2023-05-19,14,5,May,2,Friday,3852,,تأمين خاص,True,False,True,Female,High,Private,Common cold
+EP-0085,ياسمين السيد,87,76+,6,ذكر,أنفلونزا,متوسط,2,د. نور خالد,2023-05-05,2023-05-17,12,5,May,2,Friday,3852,,بدون تأمين,False,False,True,Male,Medium,Uninsured,Influenza
+EP-0086,ندى محمود,47,46-60,4,ذكر,سكري,مرتفع,3,د. ريم عبد الله,2023-05-07,2023-05-24,17,5,May,2,Sunday,999,,بدون تأمين,False,False,True,Male,High,Uninsured,Diabetes
+EP-0087,يوسف السيد,82,76+,6,أنثى,أنفلونزا,منخفض,1,د. ياسمين محمود,2023-05-09,2023-05-23,14,5,May,2,Tuesday,3852,,تأمين خاص,True,False,True,Female,Low,Private,Influenza
+EP-0088,أحمد علي,32,31-45,3,ذكر,كسور,متوسط,2,د. ياسمين محمود,2023-05-10,2023-05-14,4,5,May,2,Wednesday,3852,,بدون تأمين,False,False,True,Male,Medium,Uninsured,Fracture
+EP-0089,يوسف عبد الله,68,61-75,5,أنثى,حساسية مزمنة,متوسط,2,د. محمد حسن,2023-05-10,2023-05-13,3,5,May,2,Wednesday,999,,تأمين حكومي,True,False,True,Female,Medium,Government,Chronic allergy
+EP-0090,إبراهيم علي,46,46-60,4,أنثى,فشل كلوي,متوسط,2,د. محمد حسن,2023-05-11,2023-05-22,11,5,May,2,Thursday,3852,,تأمين خاص,True,False,True,Female,Medium,Private,Kidney failure
+EP-0091,سارة حسن,27,19-30,2,ذكر,كسور,منخفض,1,د. ريم عبد الله,2023-05-11,2023-05-17,6,5,May,2,Thursday,999,,تأمين حكومي,True,False,True,Male,Low,Government,Fracture
+EP-0092,أحمد إبراهيم,25,19-30,2,ذكر,نزلة برد,مرتفع,3,د. ياسمين محمود,2023-05-12,2023-05-30,18,5,May,2,Friday,999,,تأمين خاص,True,False,True,Male,High,Private,Common cold
+EP-0093,أحمد محمود,86,76+,6,أنثى,نزلة برد,منخفض,1,د. محمد حسن,2023-05-13,2023-06-06,24,5,May,2,Saturday,3852,,بدون تأمين,False,False,True,Female,Low,Uninsured,Common cold
+EP-0094,سارة إبراهيم,52,46-60,4,أنثى,سكري,مرتفع,3,د. ريم عبد الله,2023-05-13,2023-05-16,3,5,May,2,Saturday,3852,,بدون تأمين,False,False,True,Female,High,Uninsured,Diabetes
+EP-0095,سارة حسن,77,76+,6,أنثى,حساسية مزمنة,مرتفع,3,د. خالد سامي,2023-05-14,2023-05-19,5,5,May,2,Sunday,999,,تأمين خاص,True,False,True,Female,High,Private,Chronic allergy
+EP-0096,مريم علي,66,61-75,5,ذكر,حساسية مزمنة,مرتفع,3,د. خالد سامي,2023-05-14,2023-05-17,3,5,May,2,Sunday,3852,,بدون تأمين,False,False,True,Male,High,Uninsured,Chronic allergy
+EP-0097,ندى إبراهيم,29,19-30,2,ذكر,حساسية مزمنة,مرتفع,3,د. محمد حسن,2023-05-16,2023-06-06,21,5,May,2,Tuesday,3852,,تأمين حكومي,True,False,True,Male,High,Government,Chronic allergy
+EP-0098,ياسمين عبد الله,8,0-18,1,أنثى,سكري,متوسط,2,د. أحمد علي,2023-05-16,2023-05-18,2,5,May,2,Tuesday,3852,,تأمين خاص,True,False,True,Female,Medium,Private,Diabetes
+EP-0099,إبراهيم عبد الله,85,76+,6,أنثى,كسور,متوسط,2,د. أحمد علي,2023-05-17,2023-05-22,5,5,May,2,Wednesday,5127,5127,بدون تأمين,False,False,False,Female,Medium,Uninsured,Fracture
+EP-0100,ندى علي,23,19-30,2,ذكر,ضغط مرتفع,منخفض,1,د. ياسمين محمود,2023-05-17,2023-05-15,,5,May,2,Wednesday,999,,تأمين خاص,True,True,True,Male,Low,Private,Hypertension
+EP-0101,سارة عبد الله,20,19-30,2,أنثى,نزلة برد,منخفض,1,د. سارة إبراهيم,2023-05-23,2023-05-28,5,5,May,2,Tuesday,3852,,تأمين حكومي,True,False,True,Female,Low,Government,Common cold
+EP-0102,مريم يوسف,7,0-18,1,ذكر,أنفلونزا,منخفض,1,د. أحمد علي,2023-05-23,2023-05-26,3,5,May,2,Tuesday,973,973,تأمين خاص,True,False,False,Male,Low,Private,Influenza
+EP-0103,أحمد السيد,36,31-45,3,ذكر,نزلة برد,مرتفع,3,د. خالد سامي,2023-05-25,2023-05-28,3,5,May,2,Thursday,999,,تأمين حكومي,True,False,True,Male,High,Government,Common cold
+EP-0104,أحمد محمود,41,31-45,3,أنثى,نزلة برد,منخفض,1,د. نور خالد,2023-05-25,2023-05-28,3,5,May,2,Thursday,1416,1416,تأمين حكومي,True,False,False,Female,Low,Government,Common cold
+EP-0105,سارة محمود,90,76+,6,أنثى,أنفلونزا,مرتفع,3,د. خالد سامي,2023-05-25,2023-05-30,5,5,May,2,Thursday,3852,,تأمين حكومي,True,False,True,Female,High,Government,Influenza
+EP-0106,إبراهيم محمود,81,76+,6,ذكر,ضغط مرتفع,متوسط,2,د. خالد سامي,2023-05-27,2023-05-31,4,5,May,2,Saturday,5422,5422,تأمين خاص,True,False,False,Male,Medium,Private,Hypertension
+EP-0107,ندى علي,88,76+,6,أنثى,أنفلونزا,مرتفع,3,د. ريم عبد الله,2023-05-27,2023-06-14,18,5,May,2,Saturday,999,,تأمين حكومي,True,False,True,Female,High,Government,Influenza
+EP-0108,ندى يوسف,5,0-18,1,أنثى,صداع نصفي,منخفض,1,د. خالد سامي,2023-05-27,2023-05-30,3,5,May,2,Saturday,3852,,تأمين حكومي,True,False,True,Female,Low,Government,Migraine
+EP-0109,محمود علي,6,0-18,1,أنثى,صداع نصفي,متوسط,2,د. محمد حسن,2023-06-01,2023-05-30,,6,Jun,2,Thursday,3852,,بدون تأمين,False,True,True,Female,Medium,Uninsured,Migraine
+EP-0110,سارة يوسف,40,31-45,3,أنثى,جلطة,متوسط,2,د. نور خالد,2023-06-03,2023-05-31,,6,Jun,2,Saturday,3852,,بدون تأمين,False,True,True,Female,Medium,Uninsured,Stroke
+EP-0111,علي علي,48,46-60,4,ذكر,كسور,مرتفع,3,د. نور خالد,2023-06-06,2023-06-07,1,6,Jun,2,Tuesday,593,593,تأمين خاص,True,False,False,Male,High,Private,Fracture
+EP-0112,علي علي,73,61-75,5,ذكر,جلطة,متوسط,2,د. ريم عبد الله,2023-06-06,2023-06-07,1,6,Jun,2,Tuesday,1536,1536,تأمين حكومي,True,False,False,Male,Medium,Government,Stroke
+EP-0113,يوسف حسن,9,0-18,1,أنثى,ضغط مرتفع,متوسط,2,د. محمد حسن,2023-06-06,2023-06-08,2,6,Jun,2,Tuesday,4644,4644,تأمين خاص,True,False,False,Female,Medium,Private,Hypertension
+EP-0114,مريم عبد الله,58,46-60,4,أنثى,أنفلونزا,مرتفع,3,د. خالد سامي,2023-06-07,2023-06-11,4,6,Jun,2,Wednesday,3852,,تأمين حكومي,True,False,True,Female,High,Government,Influenza
+EP-0115,ياسمين عبد الله,84,76+,6,ذكر,أنفلونزا,مرتفع,3,د. أحمد علي,2023-06-10,2023-06-12,2,6,Jun,2,Saturday,1165,1165,تأمين خاص,True,False,False,Male,High,Private,Influenza
+EP-0116,محمود يوسف,72,61-75,5,أنثى,أنفلونزا,منخفض,1,د. سارة إبراهيم,2023-06-11,2023-06-15,4,6,Jun,2,Sunday,1665,1665,بدون تأمين,False,False,False,Female,Low,Uninsured,Influenza
+EP-0117,ندى علي,45,31-45,3,ذكر,نزلة برد,منخفض,1,د. ياسمين محمود,2023-06-11,2023-06-18,7,6,Jun,2,Sunday,5157,5157,تأمين حكومي,True,False,False,Male,Low,Government,Common cold
+EP-0118,مريم السيد,21,19-30,2,أنثى,أنفلونزا,متوسط,2,د. أحمد علي,2023-06-12,2023-06-13,1,6,Jun,2,Monday,999,,بدون تأمين,False,False,True,Female,Medium,Uninsured,Influenza
+EP-0119,ندى يوسف,68,61-75,5,أنثى,حساسية مزمنة,متوسط,2,د. محمد حسن,2023-06-12,2023-06-21,9,6,Jun,2,Monday,999,,تأمين خاص,True,False,True,Female,Medium,Private,Chronic allergy
+EP-0120,مريم عبد الله,3,0-18,1,أنثى,نزلة برد,متوسط,2,د. محمد حسن,2023-06-14,2023-06-16,2,6,Jun,2,Wednesday,1326,1326,تأمين حكومي,True,False,False,Female,Medium,Government,Common cold
+EP-0121,مريم علي,37,31-45,3,أنثى,نزلة برد,مرتفع,3,د. نور خالد,2023-06-14,2023-06-19,5,6,Jun,2,Wednesday,999,,بدون تأمين,False,False,True,Female,High,Uninsured,Common cold
+EP-0122,إبراهيم يوسف,24,19-30,2,ذكر,كسور,متوسط,2,د. خالد سامي,2023-06-16,2023-06-23,7,6,Jun,2,Friday,3852,,تأمين خاص,True,False,True,Male,Medium,Private,Fracture
+EP-0123,ندى يوسف,34,31-45,3,أنثى,كسور,منخفض,1,د. سارة إبراهيم,2023-06-17,2023-06-18,1,6,Jun,2,Saturday,503,503,تأمين خاص,True,False,False,Female,Low,Private,Fracture
+EP-0124,محمود إبراهيم,7,0-18,1,أنثى,أنفلونزا,مرتفع,3,د. ياسمين محمود,2023-06-19,2023-06-24,5,6,Jun,2,Monday,3852,,تأمين خاص,True,False,True,Female,High,Private,Influenza
+EP-0125,محمد السيد,17,0-18,1,ذكر,فشل كلوي,مرتفع,3,د. نور خالد,2023-06-24,2023-06-27,3,6,Jun,2,Saturday,999,,تأمين حكومي,True,False,True,Male,High,Government,Kidney failure
+EP-0126,مريم محمود,81,76+,6,ذكر,صداع نصفي,منخفض,1,د. محمد حسن,2023-06-24,2023-06-25,1,6,Jun,2,Saturday,535,535,تأمين خاص,True,False,False,Male,Low,Private,Migraine
+EP-0127,يوسف عبد الله,16,0-18,1,أنثى,سكري,مرتفع,3,د. نور خالد,2023-06-24,2023-06-29,5,6,Jun,2,Saturday,3852,,تأمين حكومي,True,False,True,Female,High,Government,Diabetes
+EP-0128,ياسمين علي,8,0-18,1,أنثى,سكري,مرتفع,3,د. ياسمين محمود,2023-06-26,2023-07-02,6,6,Jun,2,Monday,999,,تأمين خاص,True,False,True,Female,High,Private,Diabetes
+EP-0129,محمود محمود,80,76+,6,ذكر,حساسية مزمنة,مرتفع,3,د. ريم عبد الله,2023-06-28,2023-07-07,9,6,Jun,2,Wednesday,999,,تأمين خاص,True,False,True,Male,High,Private,Chronic allergy
+EP-0130,مريم حسن,55,46-60,4,ذكر,كسور,مرتفع,3,د. محمد حسن,2023-06-28,2023-07-12,14,6,Jun,2,Wednesday,999,,تأمين حكومي,True,False,True,Male,High,Government,Fracture
+EP-0131,ندى حسن,10,0-18,1,ذكر,كسور,منخفض,1,د. ياسمين محمود,2023-07-02,2023-06-30,,7,Jul,3,Sunday,999,,تأمين حكومي,True,True,True,Male,Low,Government,Fracture
+EP-0132,سارة إبراهيم,71,61-75,5,ذكر,حساسية مزمنة,مرتفع,3,د. ياسمين محمود,2023-07-04,2023-07-08,4,7,Jul,3,Tuesday,3852,,تأمين خاص,True,False,True,Male,High,Private,Chronic allergy
+EP-0133,محمد يوسف,67,61-75,5,أنثى,أنفلونزا,منخفض,1,د. ريم عبد الله,2023-07-04,2023-07-10,6,7,Jul,3,Tuesday,3852,,تأمين حكومي,True,False,True,Female,Low,Government,Influenza
+EP-0134,يوسف حسن,89,76+,6,أنثى,حساسية مزمنة,متوسط,2,د. محمد حسن,2023-07-04,2023-07-07,3,7,Jul,3,Tuesday,999,,تأمين حكومي,True,False,True,Female,Medium,Government,Chronic allergy
+EP-0135,إبراهيم يوسف,40,31-45,3,أنثى,أنفلونزا,منخفض,1,د. سارة إبراهيم,2023-07-05,2023-07-06,1,7,Jul,3,Wednesday,999,,تأمين خاص,True,False,True,Female,Low,Private,Influenza
+EP-0136,مريم يوسف,36,31-45,3,أنثى,حساسية مزمنة,مرتفع,3,د. ريم عبد الله,2023-07-05,2023-07-03,,7,Jul,3,Wednesday,999,,بدون تأمين,False,True,True,Female,High,Uninsured,Chronic allergy
+EP-0137,ندى حسن,42,31-45,3,أنثى,فشل كلوي,مرتفع,3,د. ريم عبد الله,2023-07-05,2023-07-22,17,7,Jul,3,Wednesday,3852,,بدون تأمين,False,False,True,Female,High,Uninsured,Kidney failure
+EP-0138,محمود محمود,9,0-18,1,أنثى,التهاب رئوي,مرتفع,3,د. ريم عبد الله,2023-07-12,2023-07-17,5,7,Jul,3,Wednesday,3852,,تأمين خاص,True,False,True,Female,High,Private,Pneumonia
+EP-0139,مريم خالد,45,31-45,3,أنثى,كسور,منخفض,1,د. سارة إبراهيم,2023-07-13,2023-07-16,3,7,Jul,3,Thursday,3852,,تأمين حكومي,True,False,True,Female,Low,Government,Fracture
+EP-0140,يوسف عبد الله,62,61-75,5,ذكر,ضغط مرتفع,متوسط,2,د. خالد سامي,2023-07-13,2023-07-11,,7,Jul,3,Thursday,3852,,تأمين حكومي,True,True,True,Male,Medium,Government,Hypertension
+EP-0141,ياسمين علي,36,31-45,3,ذكر,كسور,متوسط,2,د. محمد حسن,2023-07-14,2023-07-16,2,7,Jul,3,Friday,999,,تأمين خاص,True,False,True,Male,Medium,Private,Fracture
+EP-0142,ياسمين علي,27,19-30,2,ذكر,ضغط مرتفع,مرتفع,3,د. سارة إبراهيم,2023-07-15,2023-07-18,3,7,Jul,3,Saturday,999,,تأمين خاص,True,False,True,Male,High,Private,Hypertension
+EP-0143,إبراهيم محمود,13,0-18,1,أنثى,كسور,متوسط,2,د. محمد حسن,2023-07-18,2023-07-25,7,7,Jul,3,Tuesday,3852,,بدون تأمين,False,False,True,Female,Medium,Uninsured,Fracture
+EP-0144,ياسمين السيد,41,31-45,3,ذكر,جلطة,منخفض,1,د. خالد سامي,2023-07-18,2023-07-21,3,7,Jul,3,Tuesday,999,,تأمين خاص,True,False,True,Male,Low,Private,Stroke
+EP-0145,ندى السيد,80,76+,6,أنثى,التهاب رئوي,منخفض,1,د. خالد سامي,2023-07-19,2023-07-20,1,7,Jul,3,Wednesday,999,,بدون تأمين,False,False,True,Female,Low,Uninsured,Pneumonia
+EP-0146,علي يوسف,88,76+,6,ذكر,نزلة برد,متوسط,2,د. نور خالد,2023-07-20,2023-08-04,15,7,Jul,3,Thursday,999,,تأمين خاص,True,False,True,Male,Medium,Private,Common cold
+EP-0147,ندى عبد الله,65,61-75,5,أنثى,نزلة برد,منخفض,1,د. أحمد علي,2023-07-20,2023-07-23,3,7,Jul,3,Thursday,999,,تأمين حكومي,True,False,True,Female,Low,Government,Common cold
+EP-0148,مريم إبراهيم,73,61-75,5,ذكر,صداع نصفي,متوسط,2,د. ريم عبد الله,2023-07-21,2023-08-18,28,7,Jul,3,Friday,999,,تأمين حكومي,True,False,True,Male,Medium,Government,Migraine
+EP-0149,إبراهيم إبراهيم,89,76+,6,أنثى,حساسية مزمنة,منخفض,1,د. محمد حسن,2023-07-23,2023-07-24,1,7,Jul,3,Sunday,3852,,بدون تأمين,False,False,True,Female,Low,Uninsured,Chronic allergy
+EP-0150,سارة علي,19,19-30,2,ذكر,فشل كلوي,متوسط,2,د. أحمد علي,2023-07-26,2023-07-28,2,7,Jul,3,Wednesday,1262,1262,تأمين خاص,True,False,False,Male,Medium,Private,Kidney failure
+EP-0151,سارة علي,36,31-45,3,أنثى,حساسية مزمنة,مرتفع,3,د. سارة إبراهيم,2023-07-27,2023-07-29,2,7,Jul,3,Thursday,3852,,تأمين خاص,True,False,True,Female,High,Private,Chronic allergy
+EP-0152,علي خالد,7,0-18,1,أنثى,نزلة برد,متوسط,2,د. محمد حسن,2023-07-28,2023-07-26,,7,Jul,3,Friday,3852,,بدون تأمين,False,True,True,Female,Medium,Uninsured,Common cold
+EP-0153,سارة إبراهيم,76,76+,6,ذكر,نزلة برد,مرتفع,3,د. أحمد علي,2023-08-01,2023-08-04,3,8,Aug,3,Tuesday,999,,بدون تأمين,False,False,True,Male,High,Uninsured,Common cold
+EP-0154,علي خالد,21,19-30,2,أنثى,أنفلونزا,مرتفع,3,د. خالد سامي,2023-08-02,2023-08-06,4,8,Aug,3,Wednesday,999,,تأمين خاص,True,False,True,Female,High,Private,Influenza
+EP-0155,ياسمين إبراهيم,2,0-18,1,ذكر,كسور,منخفض,1,د. ياسمين محمود,2023-08-03,2023-08-08,5,8,Aug,3,Thursday,3630,3630,بدون تأمين,False,False,False,Male,Low,Uninsured,Fracture
+EP-0156,أحمد يوسف,84,76+,6,ذكر,حساسية مزمنة,متوسط,2,د. محمد حسن,2023-08-08,2023-08-23,15,8,Aug,3,Tuesday,999,,بدون تأمين,False,False,True,Male,Medium,Uninsured,Chronic allergy
+EP-0157,ياسمين إبراهيم,78,76+,6,ذكر,حساسية مزمنة,منخفض,1,د. محمد حسن,2023-08-08,2023-08-29,21,8,Aug,3,Tuesday,999,,تأمين خاص,True,False,True,Male,Low,Private,Chronic allergy
+EP-0158,يوسف محمود,68,61-75,5,أنثى,نزلة برد,مرتفع,3,د. نور خالد,2023-08-08,2023-08-15,7,8,Aug,3,Tuesday,3852,,تأمين خاص,True,False,True,Female,High,Private,Common cold
+EP-0159,ندى حسن,12,0-18,1,ذكر,جلطة,مرتفع,3,د. ريم عبد الله,2023-08-10,2023-08-13,3,8,Aug,3,Thursday,3852,,بدون تأمين,False,False,True,Male,High,Uninsured,Stroke
+EP-0160,محمد محمود,63,61-75,5,أنثى,ضغط مرتفع,منخفض,1,د. أحمد علي,2023-08-20,2023-08-23,3,8,Aug,3,Sunday,3852,,تأمين حكومي,True,False,True,Female,Low,Government,Hypertension
+EP-0161,يوسف عبد الله,1,0-18,1,أنثى,نزلة برد,مرتفع,3,د. أحمد علي,2023-08-20,2023-08-19,,8,Aug,3,Sunday,3852,,بدون تأمين,False,True,True,Female,High,Uninsured,Common cold
+EP-0162,إبراهيم علي,34,31-45,3,ذكر,أنفلونزا,متوسط,2,د. محمد حسن,2023-08-25,2023-09-13,19,8,Aug,3,Friday,999,,تأمين خاص,True,False,True,Male,Medium,Private,Influenza
+EP-0163,أحمد السيد,22,19-30,2,ذكر,أنفلونزا,منخفض,1,د. نور خالد,2023-09-02,2023-09-06,4,9,Sep,3,Saturday,2298,2298,بدون تأمين,False,False,False,Male,Low,Uninsured,Influenza
+EP-0164,أحمد عبد الله,26,19-30,2,أنثى,صداع نصفي,منخفض,1,د. نور خالد,2023-09-03,2023-09-09,6,9,Sep,3,Sunday,3852,,بدون تأمين,False,False,True,Female,Low,Uninsured,Migraine
+EP-0165,إبراهيم يوسف,68,61-75,5,أنثى,فشل كلوي,متوسط,2,د. ريم عبد الله,2023-09-08,2023-09-28,20,9,Sep,3,Friday,999,,بدون تأمين,False,False,True,Female,Medium,Uninsured,Kidney failure
+EP-0166,مريم يوسف,82,76+,6,أنثى,فشل كلوي,مرتفع,3,د. أحمد علي,2023-09-09,2023-09-05,,9,Sep,3,Saturday,999,,تأمين خاص,True,True,True,Female,High,Private,Kidney failure
+EP-0167,ياسمين علي,56,46-60,4,أنثى,كسور,منخفض,1,د. نور خالد,2023-09-11,2023-09-14,3,9,Sep,3,Monday,936,936,تأمين حكومي,True,False,False,Female,Low,Government,Fracture
+EP-0168,أحمد عبد الله,37,31-45,3,أنثى,صداع نصفي,منخفض,1,د. ياسمين محمود,2023-09-13,2023-09-22,9,9,Sep,3,Wednesday,999,,تأمين حكومي,True,False,True,Female,Low,Government,Migraine
+EP-0169,إبراهيم محمود,48,46-60,4,أنثى,التهاب رئوي,مرتفع,3,د. نور خالد,2023-09-14,2023-09-09,,9,Sep,3,Thursday,3852,,تأمين خاص,True,True,True,Female,High,Private,Pneumonia
+EP-0170,إبراهيم حسن,90,76+,6,أنثى,سكري,مرتفع,3,د. نور خالد,2023-09-18,2023-10-02,14,9,Sep,3,Monday,3852,,بدون تأمين,False,False,True,Female,High,Uninsured,Diabetes
+EP-0171,إبراهيم علي,82,76+,6,ذكر,حساسية مزمنة,مرتفع,3,د. ياسمين محمود,2023-09-18,2023-09-24,6,9,Sep,3,Monday,3852,,تأمين حكومي,True,False,True,Male,High,Government,Chronic allergy
+EP-0172,يوسف إبراهيم,41,31-45,3,ذكر,سكري,متوسط,2,د. ياسمين محمود,2023-09-21,2023-09-25,4,9,Sep,3,Thursday,3852,,بدون تأمين,False,False,True,Male,Medium,Uninsured,Diabetes
+EP-0173,ندى حسن,24,19-30,2,أنثى,حساسية مزمنة,مرتفع,3,د. محمد حسن,2023-09-25,2023-09-23,,9,Sep,3,Monday,999,,تأمين خاص,True,True,True,Female,High,Private,Chronic allergy
+EP-0174,ندى محمود,45,31-45,3,أنثى,سكري,مرتفع,3,د. ريم عبد الله,2023-09-26,2023-10-02,6,9,Sep,3,Tuesday,4008,4008,تأمين خاص,True,False,False,Female,High,Private,Diabetes
+EP-0175,يوسف عبد الله,53,46-60,4,ذكر,ضغط مرتفع,مرتفع,3,د. سارة إبراهيم,2023-09-26,2023-10-03,7,9,Sep,3,Tuesday,999,,تأمين خاص,True,False,True,Male,High,Private,Hypertension
+EP-0176,ندى يوسف,86,76+,6,ذكر,صداع نصفي,مرتفع,3,د. أحمد علي,2023-09-27,2023-09-25,,9,Sep,3,Wednesday,999,,بدون تأمين,False,True,True,Male,High,Uninsured,Migraine
+EP-0177,أحمد إبراهيم,86,76+,6,أنثى,حساسية مزمنة,متوسط,2,د. نور خالد,2023-09-28,2023-09-30,2,9,Sep,3,Thursday,1684,1684,تأمين حكومي,True,False,False,Female,Medium,Government,Chronic allergy
+EP-0178,علي يوسف,77,76+,6,ذكر,نزلة برد,مرتفع,3,د. أحمد علي,2023-10-01,2023-10-03,2,10,Oct,4,Sunday,3852,,تأمين حكومي,True,False,True,Male,High,Government,Common cold
+EP-0179,ندى محمود,61,61-75,5,أنثى,فشل كلوي,متوسط,2,د. أحمد علي,2023-10-02,2023-10-03,1,10,Oct,4,Monday,1560,1560,تأمين حكومي,True,False,False,Female,Medium,Government,Kidney failure
+EP-0180,محمد خالد,13,0-18,1,أنثى,حساسية مزمنة,متوسط,2,د. نور خالد,2023-10-03,2023-10-06,3,10,Oct,4,Tuesday,3852,,تأمين حكومي,True,False,True,Female,Medium,Government,Chronic allergy
+EP-0181,إبراهيم يوسف,31,31-45,3,ذكر,سكري,مرتفع,3,د. أحمد علي,2023-10-04,2023-10-25,21,10,Oct,4,Wednesday,999,,تأمين حكومي,True,False,True,Male,High,Government,Diabetes
+EP-0182,سارة حسن,59,46-60,4,ذكر,صداع نصفي,متوسط,2,د. محمد حسن,2023-10-04,2023-10-14,10,10,Oct,4,Wednesday,3852,,بدون تأمين,False,False,True,Male,Medium,Uninsured,Migraine
+EP-0183,علي حسن,57,46-60,4,ذكر,كسور,منخفض,1,د. ريم عبد الله,2023-10-04,2023-10-10,6,10,Oct,4,Wednesday,3852,,تأمين حكومي,True,False,True,Male,Low,Government,Fracture
+EP-0184,يوسف السيد,63,61-75,5,ذكر,جلطة,مرتفع,3,د. خالد سامي,2023-10-04,2023-10-05,1,10,Oct,4,Wednesday,1230,1230,بدون تأمين,False,False,False,Male,High,Uninsured,Stroke
+EP-0185,يوسف يوسف,10,0-18,1,ذكر,كسور,مرتفع,3,د. نور خالد,2023-10-06,2023-10-02,,10,Oct,4,Friday,1427,1427,بدون تأمين,False,True,False,Male,High,Uninsured,Fracture
+EP-0186,سارة حسن,62,61-75,5,ذكر,سكري,متوسط,2,د. محمد حسن,2023-10-07,2023-10-09,2,10,Oct,4,Saturday,3449,3449,تأمين حكومي,True,False,False,Male,Medium,Government,Diabetes
+EP-0187,ياسمين عبد الله,90,76+,6,أنثى,حساسية مزمنة,منخفض,1,د. خالد سامي,2023-10-07,2023-10-08,1,10,Oct,4,Saturday,999,,تأمين خاص,True,False,True,Female,Low,Private,Chronic allergy
+EP-0188,يوسف السيد,61,61-75,5,أنثى,جلطة,متوسط,2,د. ريم عبد الله,2023-10-08,2023-10-25,17,10,Oct,4,Sunday,999,,بدون تأمين,False,False,True,Female,Medium,Uninsured,Stroke
+EP-0189,محمود إبراهيم,50,46-60,4,أنثى,صداع نصفي,منخفض,1,د. ريم عبد الله,2023-10-09,2023-10-15,6,10,Oct,4,Monday,999,,تأمين خاص,True,False,True,Female,Low,Private,Migraine
+EP-0190,محمود محمود,85,76+,6,أنثى,سكري,منخفض,1,د. أحمد علي,2023-10-09,2023-10-13,4,10,Oct,4,Monday,999,,تأمين خاص,True,False,True,Female,Low,Private,Diabetes
+EP-0191,ياسمين إبراهيم,72,61-75,5,ذكر,كسور,منخفض,1,د. أحمد علي,2023-10-09,2023-10-14,5,10,Oct,4,Monday,3852,,تأمين حكومي,True,False,True,Male,Low,Government,Fracture
+EP-0192,ياسمين محمود,36,31-45,3,أنثى,أنفلونزا,متوسط,2,د. ياسمين محمود,2023-10-09,2023-10-23,14,10,Oct,4,Monday,999,,تأمين خاص,True,False,True,Female,Medium,Private,Influenza
+EP-0193,ندى إبراهيم,73,61-75,5,ذكر,أنفلونزا,منخفض,1,د. سارة إبراهيم,2023-10-10,2023-10-12,2,10,Oct,4,Tuesday,3852,,تأمين خاص,True,False,True,Male,Low,Private,Influenza
+EP-0194,علي عبد الله,90,76+,6,ذكر,حساسية مزمنة,مرتفع,3,د. ريم عبد الله,2023-10-12,2023-10-22,10,10,Oct,4,Thursday,3852,,بدون تأمين,False,False,True,Male,High,Uninsured,Chronic allergy
+EP-0195,ياسمين علي,80,76+,6,ذكر,ضغط مرتفع,مرتفع,3,د. ريم عبد الله,2023-10-13,2023-10-15,2,10,Oct,4,Friday,5035,5035,تأمين خاص,True,False,False,Male,High,Private,Hypertension
+EP-0196,يوسف حسن,1,0-18,1,ذكر,ضغط مرتفع,منخفض,1,د. محمد حسن,2023-10-13,2023-10-12,,10,Oct,4,Friday,3852,,تأمين حكومي,True,True,True,Male,Low,Government,Hypertension
+EP-0197,أحمد إبراهيم,8,0-18,1,ذكر,كسور,متوسط,2,د. سارة إبراهيم,2023-10-17,2023-10-31,14,10,Oct,4,Tuesday,3852,,تأمين حكومي,True,False,True,Male,Medium,Government,Fracture
+EP-0198,علي حسن,18,0-18,1,أنثى,أنفلونزا,مرتفع,3,د. ياسمين محمود,2023-10-18,2023-10-20,2,10,Oct,4,Wednesday,3852,,تأمين خاص,True,False,True,Female,High,Private,Influenza
+EP-0199,ياسمين يوسف,77,76+,6,ذكر,جلطة,منخفض,1,د. نور خالد,2023-10-18,2023-10-21,3,10,Oct,4,Wednesday,3852,,تأمين خاص,True,False,True,Male,Low,Private,Stroke
+EP-0200,مريم إبراهيم,12,0-18,1,أنثى,فشل كلوي,منخفض,1,د. أحمد علي,2023-10-20,2023-10-19,,10,Oct,4,Friday,3852,,تأمين خاص,True,True,True,Female,Low,Private,Kidney failure
+EP-0201,علي عبد الله,67,61-75,5,أنثى,سكري,مرتفع,3,د. ياسمين محمود,2023-10-22,2023-10-24,2,10,Oct,4,Sunday,999,,تأمين حكومي,True,False,True,Female,High,Government,Diabetes
+EP-0202,محمد إبراهيم,83,76+,6,ذكر,التهاب رئوي,مرتفع,3,د. ريم عبد الله,2023-10-25,2023-11-08,14,10,Oct,4,Wednesday,3852,,بدون تأمين,False,False,True,Male,High,Uninsured,Pneumonia
+EP-0203,محمد خالد,64,61-75,5,أنثى,نزلة برد,مرتفع,3,د. نور خالد,2023-10-26,2023-11-15,20,10,Oct,4,Thursday,3852,,تأمين حكومي,True,False,True,Female,High,Government,Common cold
+EP-0204,يوسف عبد الله,42,31-45,3,أنثى,أنفلونزا,مرتفع,3,د. سارة إبراهيم,2023-10-26,2023-10-27,1,10,Oct,4,Thursday,961,961,بدون تأمين,False,False,False,Female,High,Uninsured,Influenza
+EP-0205,أحمد يوسف,7,0-18,1,ذكر,ضغط مرتفع,منخفض,1,د. ياسمين محمود,2023-11-01,2023-11-04,3,11,Nov,4,Wednesday,2807,2807,تأمين حكومي,True,False,False,Male,Low,Government,Hypertension
+EP-0206,سارة عبد الله,46,46-60,4,ذكر,سكري,متوسط,2,د. خالد سامي,2023-11-01,2023-10-29,,11,Nov,4,Wednesday,4619,4619,تأمين خاص,True,True,False,Male,Medium,Private,Diabetes
+EP-0207,ندى خالد,25,19-30,2,أنثى,كسور,متوسط,2,د. سارة إبراهيم,2023-11-04,2023-11-07,3,11,Nov,4,Saturday,3852,,تأمين خاص,True,False,True,Female,Medium,Private,Fracture
+EP-0208,أحمد محمود,88,76+,6,ذكر,صداع نصفي,مرتفع,3,د. ياسمين محمود,2023-11-05,2023-11-10,5,11,Nov,4,Sunday,3852,,تأمين خاص,True,False,True,Male,High,Private,Migraine
+EP-0209,علي السيد,45,31-45,3,ذكر,أنفلونزا,منخفض,1,د. محمد حسن,2023-11-05,2023-11-22,17,11,Nov,4,Sunday,999,,تأمين خاص,True,False,True,Male,Low,Private,Influenza
+EP-0210,مريم إبراهيم,19,19-30,2,أنثى,أنفلونزا,مرتفع,3,د. ياسمين محمود,2023-11-06,2023-11-05,,11,Nov,4,Monday,3852,,بدون تأمين,False,True,True,Female,High,Uninsured,Influenza
+EP-0211,سارة محمود,14,0-18,1,ذكر,فشل كلوي,متوسط,2,د. سارة إبراهيم,2023-11-11,2023-11-20,9,11,Nov,4,Saturday,999,,بدون تأمين,False,False,True,Male,Medium,Uninsured,Kidney failure
+EP-0212,سارة علي,54,46-60,4,ذكر,جلطة,منخفض,1,د. أحمد علي,2023-11-14,2023-11-22,8,11,Nov,4,Tuesday,6660,6660,تأمين خاص,True,False,False,Male,Low,Private,Stroke
+EP-0213,محمود عبد الله,44,31-45,3,أنثى,أنفلونزا,منخفض,1,د. ريم عبد الله,2023-11-14,2023-11-15,1,11,Nov,4,Tuesday,3852,,تأمين خاص,True,False,True,Female,Low,Private,Influenza
+EP-0214,ندى محمود,48,46-60,4,أنثى,سكري,متوسط,2,د. محمد حسن,2023-11-14,2023-11-18,4,11,Nov,4,Tuesday,3852,,تأمين خاص,True,False,True,Female,Medium,Private,Diabetes
+EP-0215,إبراهيم علي,50,46-60,4,ذكر,حساسية مزمنة,متوسط,2,د. خالد سامي,2023-11-15,2023-11-27,12,11,Nov,4,Wednesday,999,,بدون تأمين,False,False,True,Male,Medium,Uninsured,Chronic allergy
+EP-0216,أحمد خالد,86,76+,6,ذكر,أنفلونزا,مرتفع,3,د. أحمد علي,2023-11-16,2023-11-19,3,11,Nov,4,Thursday,999,,بدون تأمين,False,False,True,Male,High,Uninsured,Influenza
+EP-0217,محمد السيد,44,31-45,3,أنثى,حساسية مزمنة,متوسط,2,د. ياسمين محمود,2023-11-18,2023-11-22,4,11,Nov,4,Saturday,3852,,تأمين خاص,True,False,True,Female,Medium,Private,Chronic allergy
+EP-0218,أحمد علي,50,46-60,4,أنثى,أنفلونزا,متوسط,2,د. ريم عبد الله,2023-11-23,2023-11-27,4,11,Nov,4,Thursday,3898,3898,تأمين خاص,True,False,False,Female,Medium,Private,Influenza
+EP-0219,مريم السيد,78,76+,6,ذكر,أنفلونزا,متوسط,2,د. أحمد علي,2023-11-23,2023-12-07,14,11,Nov,4,Thursday,999,,تأمين حكومي,True,False,True,Male,Medium,Government,Influenza
+EP-0220,إبراهيم عبد الله,7,0-18,1,أنثى,كسور,متوسط,2,د. أحمد علي,2023-11-24,2023-11-26,2,11,Nov,4,Friday,999,,بدون تأمين,False,False,True,Female,Medium,Uninsured,Fracture
+EP-0221,علي السيد,9,0-18,1,أنثى,ضغط مرتفع,منخفض,1,د. سارة إبراهيم,2023-11-27,2023-11-30,3,11,Nov,4,Monday,999,,بدون تأمين,False,False,True,Female,Low,Uninsured,Hypertension
+EP-0222,يوسف إبراهيم,11,0-18,1,ذكر,سكري,متوسط,2,د. أحمد علي,2023-11-27,2023-12-02,5,11,Nov,4,Monday,3847,3847,تأمين خاص,True,False,False,Male,Medium,Private,Diabetes
+EP-0223,محمود محمود,78,76+,6,ذكر,ضغط مرتفع,متوسط,2,د. سارة إبراهيم,2023-11-28,2023-12-12,14,11,Nov,4,Tuesday,999,,تأمين حكومي,True,False,True,Male,Medium,Government,Hypertension
+EP-0224,مريم محمود,32,31-45,3,ذكر,صداع نصفي,متوسط,2,د. محمد حسن,2023-11-28,2023-12-01,3,11,Nov,4,Tuesday,999,,تأمين حكومي,True,False,True,Male,Medium,Government,Migraine
+EP-0225,ندى عبد الله,14,0-18,1,ذكر,ضغط مرتفع,مرتفع,3,د. سارة إبراهيم,2023-12-03,2023-12-06,3,12,Dec,4,Sunday,999,,تأمين خاص,True,False,True,Male,High,Private,Hypertension
+EP-0226,علي حسن,33,31-45,3,ذكر,حساسية مزمنة,منخفض,1,د. ريم عبد الله,2023-12-04,2023-12-12,8,12,Dec,4,Monday,999,,بدون تأمين,False,False,True,Male,Low,Uninsured,Chronic allergy
+EP-0227,محمود عبد الله,61,61-75,5,أنثى,فشل كلوي,متوسط,2,د. ريم عبد الله,2023-12-05,2023-12-07,2,12,Dec,4,Tuesday,3852,,بدون تأمين,False,False,True,Female,Medium,Uninsured,Kidney failure
+EP-0228,إبراهيم يوسف,19,19-30,2,أنثى,حساسية مزمنة,منخفض,1,د. سارة إبراهيم,2023-12-06,2023-12-09,3,12,Dec,4,Wednesday,999,,بدون تأمين,False,False,True,Female,Low,Uninsured,Chronic allergy
+EP-0229,محمود محمود,74,61-75,5,ذكر,ضغط مرتفع,منخفض,1,د. خالد سامي,2023-12-06,2023-12-08,2,12,Dec,4,Wednesday,5998,5998,تأمين حكومي,True,False,False,Male,Low,Government,Hypertension
+EP-0230,سارة خالد,72,61-75,5,ذكر,كسور,منخفض,1,د. خالد سامي,2023-12-07,2023-12-10,3,12,Dec,4,Thursday,999,,تأمين خاص,True,False,True,Male,Low,Private,Fracture
+EP-0231,محمد حسن,83,76+,6,ذكر,سكري,متوسط,2,د. ياسمين محمود,2023-12-09,2023-12-05,,12,Dec,4,Saturday,3852,,بدون تأمين,False,True,True,Male,Medium,Uninsured,Diabetes
+EP-0232,علي يوسف,86,76+,6,ذكر,فشل كلوي,متوسط,2,د. ريم عبد الله,2023-12-11,2023-12-07,,12,Dec,4,Monday,999,,بدون تأمين,False,True,True,Male,Medium,Uninsured,Kidney failure
+EP-0233,محمود السيد,1,0-18,1,أنثى,نزلة برد,مرتفع,3,د. ياسمين محمود,2023-12-12,2023-12-13,1,12,Dec,4,Tuesday,999,,بدون تأمين,False,False,True,Female,High,Uninsured,Common cold
+EP-0234,ياسمين عبد الله,17,0-18,1,أنثى,أنفلونزا,متوسط,2,د. ياسمين محمود,2023-12-12,2023-12-13,1,12,Dec,4,Tuesday,3852,,تأمين حكومي,True,False,True,Female,Medium,Government,Influenza
+EP-0235,سارة محمود,60,46-60,4,أنثى,كسور,منخفض,1,د. سارة إبراهيم,2023-12-13,2023-12-20,7,12,Dec,4,Wednesday,3852,,بدون تأمين,False,False,True,Female,Low,Uninsured,Fracture
+EP-0236,محمد خالد,17,0-18,1,أنثى,سكري,منخفض,1,د. نور خالد,2023-12-13,2023-12-15,2,12,Dec,4,Wednesday,3852,,بدون تأمين,False,False,True,Female,Low,Uninsured,Diabetes
+EP-0237,مريم السيد,62,61-75,5,أنثى,التهاب رئوي,مرتفع,3,د. أحمد علي,2023-12-13,2023-12-16,3,12,Dec,4,Wednesday,3852,,تأمين حكومي,True,False,True,Female,High,Government,Pneumonia
+EP-0238,أحمد علي,37,31-45,3,أنثى,حساسية مزمنة,مرتفع,3,د. ريم عبد الله,2023-12-15,2023-12-29,14,12,Dec,4,Friday,3852,,تأمين حكومي,True,False,True,Female,High,Government,Chronic allergy
+EP-0239,محمد عبد الله,49,46-60,4,أنثى,نزلة برد,مرتفع,3,د. محمد حسن,2023-12-16,2023-12-20,4,12,Dec,4,Saturday,3852,,تأمين خاص,True,False,True,Female,High,Private,Common cold
+EP-0240,ياسمين علي,70,61-75,5,أنثى,أنفلونزا,متوسط,2,د. محمد حسن,2023-12-22,2023-12-21,,12,Dec,4,Friday,3852,,تأمين حكومي,True,True,True,Female,Medium,Government,Influenza
+EP-0241,أحمد السيد,58,46-60,4,أنثى,التهاب رئوي,متوسط,2,د. أحمد علي,2023-12-24,2023-12-27,3,12,Dec,4,Sunday,3852,,بدون تأمين,False,False,True,Female,Medium,Uninsured,Pneumonia
+EP-0242,علي يوسف,85,76+,6,ذكر,أنفلونزا,منخفض,1,د. نور خالد,2023-12-25,2023-12-27,2,12,Dec,4,Monday,999,,تأمين خاص,True,False,True,Male,Low,Private,Influenza
+EP-0243,محمود يوسف,81,76+,6,أنثى,سكري,منخفض,1,د. خالد سامي,2023-12-25,2024-01-14,20,12,Dec,4,Monday,999,,بدون تأمين,False,False,True,Female,Low,Uninsured,Diabetes
+EP-0244,مريم محمود,59,46-60,4,أنثى,نزلة برد,مرتفع,3,د. ياسمين محمود,2023-12-26,2024-01-12,17,12,Dec,4,Tuesday,999,,تأمين حكومي,True,False,True,Female,High,Government,Common cold
+EP-0245,ندى السيد,83,76+,6,أنثى,حساسية مزمنة,متوسط,2,د. خالد سامي,2023-12-26,2024-01-05,10,12,Dec,4,Tuesday,3852,,بدون تأمين,False,False,True,Female,Medium,Uninsured,Chronic allergy
+EP-0246,ندى عبد الله,52,46-60,4,ذكر,كسور,منخفض,1,د. خالد سامي,2023-12-26,2023-12-31,5,12,Dec,4,Tuesday,3842,3842,تأمين خاص,True,False,False,Male,Low,Private,Fracture
+EP-0247,محمود حسن,63,61-75,5,ذكر,كسور,مرتفع,3,د. محمد حسن,2023-12-28,2023-12-29,1,12,Dec,4,Thursday,999,,تأمين حكومي,True,False,True,Male,High,Government,Fracture
