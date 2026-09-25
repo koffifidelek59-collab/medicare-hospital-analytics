@@ -1,0 +1,8 @@
+test,statistic_name,statistic,p_value,n,significant_at_5%
+Length of stay by severity,Kruskal-Wallis H,0.34537512666847475,0.8414004581352553,218,False
+Validated bill by severity,Kruskal-Wallis H,2.5134183426636127,0.2845890209114341,52,False
+Severity mix by physician,Chi-square (12 df),13.401535760692525,0.3405431149288092,247,False
+Severity mix by insurance cover,Chi-square (4 df),1.188741032976304,0.8799488319961705,247,False
+Admissions evenly spread over months,Chi-square (11 df),15.39676113360324,0.16504386022599868,247,False
+Length of stay against validated bill,Spearman rho,0.6203424024772621,1.5468376507796817e-06,50,True
+Stay of genuine against placeholder bills,Mann-Whitney U,2458.0,7.505664138679774e-06,218,True

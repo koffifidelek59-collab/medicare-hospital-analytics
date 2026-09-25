@@ -1,0 +1,67 @@
+{
+  "episodes": 247,
+  "patients": 75,
+  "physicians": 7,
+  "diagnoses": 10,
+  "placeholder_bills": 195,
+  "genuine_bills": 52,
+  "date_errors": 29,
+  "valid_stays": 218,
+  "raw_bill_sum": 618995.0,
+  "validated_revenue": 153155.0,
+  "mean_los_days": 6.74,
+  "median_los_days": 4.0,
+  "high_severity_pct": 36.0,
+  "uninsured_pct": 29.1,
+  "tests": [
+    {
+      "test": "Length of stay by severity",
+      "statistic_name": "Kruskal-Wallis H",
+      "statistic": 0.34537512666847475,
+      "p_value": 0.8414004581352553,
+      "n": 218
+    },
+    {
+      "test": "Validated bill by severity",
+      "statistic_name": "Kruskal-Wallis H",
+      "statistic": 2.5134183426636127,
+      "p_value": 0.2845890209114341,
+      "n": 52
+    },
+    {
+      "test": "Severity mix by physician",
+      "statistic_name": "Chi-square (12 df)",
+      "statistic": 13.401535760692525,
+      "p_value": 0.3405431149288092,
+      "n": 247
+    },
+    {
+      "test": "Severity mix by insurance cover",
+      "statistic_name": "Chi-square (4 df)",
+      "statistic": 1.188741032976304,
+      "p_value": 0.8799488319961705,
+      "n": 247
+    },
+    {
+      "test": "Admissions evenly spread over months",
+      "statistic_name": "Chi-square (11 df)",
+      "statistic": 15.39676113360324,
+      "p_value": 0.16504386022599868,
+      "n": 247
+    },
+    {
+      "test": "Length of stay against validated bill",
+      "statistic_name": "Spearman rho",
+      "statistic": 0.6203424024772621,
+      "p_value": 1.5468376507796817e-06,
+      "n": 50
+    },
+    {
+      "test": "Stay of genuine against placeholder bills",
+      "statistic_name": "Mann-Whitney U",
+      "statistic": 2458.0,
+      "p_value": 7.505664138679774e-06,
+      "n": 218
+    }
+  ]
+}

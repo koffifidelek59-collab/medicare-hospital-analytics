@@ -1,0 +1,4 @@
+Severity,episodes,high_severity,valid_stays,mean_los,genuine_bills,validated_revenue,mean_validated_bill,share_%
+High,89,89,77,6.84,14,32099.0,2292.79,36.03
+Low,81,0,73,6.23,20,63188.0,3159.4,32.79
+Medium,77,0,68,7.18,18,57868.0,3214.89,31.17

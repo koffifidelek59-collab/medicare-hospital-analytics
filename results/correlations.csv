@@ -1,0 +1,7 @@
+variable_1,variable_2,spearman_rho,p_value,n
+Age,Severity,0.015,0.8108454098952148,247
+Age,Length of stay,0.132,0.05177687892760214,218
+Age,Validated bill,0.11,0.43848399571100644,52
+Severity,Length of stay,0.001,0.9875802318593462,218
+Severity,Validated bill,-0.14,0.32077151933090897,52
+Length of stay,Validated bill,0.62,1.5468376507796817e-06,50

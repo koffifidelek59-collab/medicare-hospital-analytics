@@ -1,0 +1,15 @@
+indicator,value,base
+Admission episodes,247.0,all episodes
+Distinct patients,75.0,all episodes
+Attending physicians,7.0,all episodes
+Distinct diagnoses,10.0,all episodes
+Mean patient age (years),47.4,all episodes
+Female share (%),52.6,all episodes
+High severity share (%),36.0,all episodes
+Uninsured share (%),29.1,all episodes
+Mean length of stay (days),6.74,218 valid stays
+Median length of stay (days),4.0,218 valid stays
+Validated revenue,153155.0,52 genuine bills
+Mean validated bill,2945.0,52 genuine bills
+Median validated bill,2704.0,52 genuine bills
+Raw bill column sum,618995.0,not for decisions

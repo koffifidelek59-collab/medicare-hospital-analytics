@@ -1,0 +1,4 @@
+Insurance,episodes,high_severity,valid_stays,mean_los,genuine_bills,validated_revenue,mean_validated_bill,share_%
+Private,92,33,82,6.5,23,70252.0,3054.43,37.25
+Government,83,30,77,6.66,18,57318.0,3184.33,33.6
+Uninsured,72,26,59,7.19,11,25585.0,2325.91,29.15

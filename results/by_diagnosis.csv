@@ -1,0 +1,11 @@
+Diagnosis,episodes,high_severity,valid_stays,mean_los,genuine_bills,validated_revenue,mean_validated_bill,share_%
+Influenza,40,13,37,6.59,8,20484.0,2560.5,16.19
+Fracture,37,10,33,5.39,13,36393.0,2799.46,14.98
+Chronic allergy,34,16,30,7.4,4,7495.0,1873.75,13.77
+Common cold,31,15,28,8.32,7,21826.0,3118.0,12.55
+Diabetes,28,13,25,6.0,5,19843.0,3968.6,11.34
+Hypertension,24,5,19,6.63,6,27199.0,4533.17,9.72
+Kidney failure,19,5,16,7.06,3,7384.0,2461.33,7.69
+Migraine,15,3,13,7.08,2,2019.0,1009.5,6.07
+Stroke,11,3,10,7.9,3,9426.0,3142.0,4.45
+Pneumonia,8,6,7,4.71,1,1086.0,1086.0,3.24

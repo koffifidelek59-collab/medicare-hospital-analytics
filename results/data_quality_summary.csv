@@ -1,0 +1,8 @@
+item,episodes,share_%
+Admission episodes,247,100.0
+Episodes with a placeholder bill,195,78.9
+  of which amount 999,100,40.5
+"  of which amount 3,852",95,38.5
+Episodes usable for revenue,52,21.1
+Episodes with an impossible stay,29,11.7
+Episodes usable for length of stay,218,88.3
